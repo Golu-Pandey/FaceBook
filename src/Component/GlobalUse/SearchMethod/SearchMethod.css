@@ -1,0 +1,108 @@
+/* Container */
+.profile_posts {
+  padding: 8px 12px;
+  background-color: #fff;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  width: 110%;
+}
+
+.Icon_Input {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: sticky;
+  top: -12px;
+  background-color: white;
+  padding: 10px 0px;
+}
+
+.search_box_card {
+  background-color: #f0f2f5;
+  padding: 8px 25px;
+  border-radius: 999px;
+}
+
+.Search-Box_arrow i {
+  color: #797b7d;
+  font-size: 16px;
+}
+
+.Search-Box_arrow i:hover {
+  cursor: pointer;
+}
+
+.search-link {
+  border-radius: 50%;
+  padding: 3px 0px;
+}
+
+.search_box_card input {
+  /* border: none - ye input me jo border aa rha tha use htane ke liye none use kiye hai*/
+  border: none;
+  background: #f0f2f5;
+  font-size: 14px;
+  outline: none;
+}
+
+.dataList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.user_post_container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  padding: 3px 7px;
+}
+
+.user_post_container:hover {
+  cursor: pointer;
+  background-color: rgb(233, 228, 228);
+}
+
+.user_post {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+}
+
+.user_post_name {
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+  color: #080809;
+}
+
+.user_not_found{
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+  color: red;
+  text-align: center;
+  padding: 20px 0px 20px 5px;
+}
+
+/* Responsive behavior */
+@media (max-width: 600px) {
+  .profile_posts {
+    padding: 6px 8px;
+  }
+
+  .user_post {
+    width: 38px;
+    height: 38px;
+  }
+
+  .user_post_name {
+    font-size: 14px;
+  }
+}
+
+

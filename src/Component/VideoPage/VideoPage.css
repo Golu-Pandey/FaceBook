@@ -1,0 +1,11 @@
+.video-container {
+    display: flex;
+    gap: 196px;
+}
+.video-page-content{
+    background-color: #eeeff2;
+}
+.video-main-section{
+    overflow-y: auto;
+   height: calc(100vh - 55px);
+}

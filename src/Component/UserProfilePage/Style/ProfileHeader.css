@@ -1,0 +1,226 @@
+
+.profile-header_Page{
+    /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15); */
+    box-shadow: 0 3px 4px rgba(139, 69, 19, 0.2);
+
+}
+
+
+.bg_cover {
+  text-align: center;
+  width: 100%;
+  position: relative;
+}
+
+.cover-img {
+  width: 72%;
+  height: 365px;
+  object-fit: cover;
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+
+.Cover_Photo_Edit {
+  background-color: white;
+  padding: 5px;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  position: absolute;
+  right: 15%;
+  bottom: 16px;
+  font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: #080809;
+}
+.Cover_Photo_Edit:hover{
+  background-color: #e6e9ed;
+  cursor: pointer;
+}
+.Cover_Photo_Edit img {
+  width: 18px;
+  height: 18px;
+}
+
+.Profile_Photo_Camera {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  bottom: 30px;
+}
+
+.profile-img {
+  width: 11.3%;
+  height: 11.5%;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 3px solid white;
+  /* object-fit: cover; */
+  /* inner white border */
+  box-shadow:
+    0 0 0 3px #1877f2,
+    /* middle blue border */
+    0 0 0 7px white;
+}
+.profile-img:hover{
+  opacity: 0.95;
+}
+.profile_header {
+  /* font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif; */
+  font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: #080809;
+}
+
+.follower_Text {
+  font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: #65686c;
+}
+.follower{
+  font-size: 15px;
+  font-weight: 500;
+  color: #65686c;
+}
+
+.follower_Text:hover{
+  text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+    cursor: pointer;
+}
+.Profile_Name_Follower_Following {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2%;
+  margin-left: -9px;
+}
+
+.Other_Profile_Pic_All {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+
+.Other_Profile_Pic_All{
+ 
+  position: relative;
+}
+.Other_Profile_Pic_All img:first-child {
+  margin-left: 0; /* pehla image normal rahe */
+}
+
+.Other_Profile_Pic_All img:nth-child(2) {
+  top: 20px; /* thoda upar */
+  z-index: 2;
+}
+
+.Other_Profile_Pic_All img:nth-child(3) {
+  top: 10px; /* aur thoda upar */
+  z-index: 3;
+}
+
+
+.profile_img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.Profile_Photo_edit{
+  position: relative;
+  right: 2%;
+    top: 54px;
+    cursor: pointer;
+}
+.Dashboard_icon {
+  background-color: #0866ff;
+  width: 205px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border-radius: 7px;
+}
+.Dashboard_icon:hover{
+  background-color: rgb(88, 88, 239);
+  cursor: pointer;
+}
+.right_Header_box {
+  padding-left: 16%;
+  margin-top: 4%;
+}
+.left_container{
+  display: flex;
+  gap: 9px;
+  flex-direction: column;
+}
+.child-left_container {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 9px;
+}
+
+.Dashboard_text {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+  font-weight: 500;
+}
+
+.edit_Profile {
+  background-color: #d8dade;
+  width: 72px;
+  height: 36px;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.edit_Profile:hover{
+  background-color: #e6e9ee;
+  cursor: pointer;
+}
+
+.edit_add_style{
+  font-size: 15px;
+  font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+  font-weight: 500;
+}
+.Add_story{
+  width: 44.9%;
+  height: 36px;
+  background-color: #d8dade;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.Add_story:hover{
+   background-color: #e6e9ee;
+  cursor: pointer;
+}
+
+.Arrow_bottom{
+  width: 20%;
+  height: 36px;
+   background-color: #d8dade;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Arrow_bottom:hover{
+   background-color: #e6e9ee;
+  cursor: pointer;
+}

@@ -1,0 +1,86 @@
+.action-modal {
+  width: 100%;
+  max-height: 200px;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-family: Arial, sans-serif;
+}
+
+
+.action-item {
+  display: flex;
+  gap: 15px;
+  
+}
+.textUndo{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.action-item-Hideen {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
+}
+
+.HideenANdIcon {
+  display: flex;
+  gap: 10px;
+}
+
+.hidden {
+  display: flex;
+  flex-direction: column;
+}
+.HideIcon{
+  width: 22px;
+  height: 20px;
+  padding: 1px 5px;
+  background-color: black;
+  border-radius: 5px;
+ margin-top: 3px;
+}
+.hidden-icon {
+  color: white;
+  font-size: 16px;
+
+}
+
+.undo-button {
+  background: #e0e0e0;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+/* hidden end */
+
+/*snooze Start*/
+.snooze{
+  margin-top: 3px;
+}
+.snooze-icon {
+  font-size: 20px;
+
+}
+
+
+.text {
+  font-weight: 600;
+}
+
+.subtext {
+  font-size: 12px;
+  color: #555;
+}

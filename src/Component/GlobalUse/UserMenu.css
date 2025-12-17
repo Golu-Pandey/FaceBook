@@ -1,0 +1,193 @@
+.profile-card {
+  width: 315px;
+  max-height: 90vh;
+  padding: 16px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  overflow-y: auto; 
+}
+
+.profile-header {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+    box-shadow: 0 0px 14px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+ padding: 10px;
+}
+
+.Top_header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 6px 10px;
+  border-radius: 10px;
+  position: relative;
+}
+
+
+.Top_header::after {
+  content: "";
+  position: absolute;
+  bottom: 0;             
+  left: 0px;             
+  right: 0px;
+  height: 1.5px;
+  background-color: rgb(217, 212, 212);
+  transform: translateY(4px); /* ← border ko thoda niche dikhata hai */
+}
+
+
+.Top_header:hover{
+  cursor: pointer;
+   background-color: #dbdde1;
+}
+.profile_img {
+  border-radius: 50%!important;
+  width: 36px!important;
+  height: 36px!important;
+  border: 1px solid rgb(215, 210, 210)!important;
+}
+
+.All_profile {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  justify-content: center;
+  background-color: #E2E5E9;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+.All_profile:hover{
+   cursor: pointer;
+   background-color: #dbdde1;
+}
+.profile-name {
+  margin: 10px 0 5px 0;
+}
+.setting_img{
+  border-radius: 50%!important;
+  width: 36px!important;
+  height: 36px!important;
+}
+.account_container{
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+
+.menu_material {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 10px;
+  border-radius: 10px;
+}
+.menu_material:hover{
+   cursor: pointer;
+   background-color: #dbdde1;
+}
+.menu_item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.Menu_icon {
+  width: 36px;
+  height: 36px;
+  font-size: 20px;
+  border-radius: 50%;
+  background-color: #d8dadf;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Account_material_name{
+  font-size: 15px;
+  font-family: 'Gill Sans', 'Segoe UI', 'Trebuchet MS', sans-serif;
+  font-weight: 500;
+    color: #080809;
+
+
+}
+
+.feedback_material {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 7px 10px;
+  border-radius: 10px;
+}
+.feedback_material:hover{
+   cursor: pointer;
+   background-color: #dbdde1;
+}
+.feedback_icon_container {
+  background-color: #d8dadf;
+  border-radius: 50%;
+  padding: 6px;
+  display: inline-flex;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.feedback {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-align: justify;
+}
+
+.feedback_icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 1px;
+}
+.Logout_item{
+   display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 6px 10px;
+  border-radius: 10px;
+}
+.Logout_item:hover{
+    background-color: #dbdde1;
+    cursor: pointer;
+
+}
+
+.shortcut {
+  font-size: 12px;
+  color: #080809;
+    font-family: 'Gill Sans', 'Segoe UI', 'Trebuchet MS', sans-serif;
+
+}
+
+.footer-links {
+  font-size: 13px;
+      font-family: 'Gill Sans', 'Segoe UI', 'Trebuchet MS', sans-serif;
+  color: #65686c;
+ padding-top: 20px;
+ font-weight: 500;
+ width: 100%;
+ padding : 20px 10px 0px 10px;
+ text-align: justify;
+}
+
+.footer-links a {
+  color: #555;
+  text-decoration: none;
+}
+.footer-links a:hover{
+   text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+    cursor: pointer;
+}

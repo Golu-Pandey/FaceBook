@@ -1,0 +1,94 @@
+[
+  {
+    "type": "create",
+    "bgImage": "/Image/HomePage/Story/Golu_Create_Profile_img.jpg",
+    "userName": "Create story",
+    "icon": "fa-solid fa-plus"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Vishal_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Vishal_Profile_img.jpg",
+    "userName": "Vishal Singh"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Vinayak_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Vinayak_Profile_img.jpg",
+    "userName": "Vinayak Pathak"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Suraj_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Suraj_Profile_img.jpg",
+    "userName": "Suraj Tiwari"
+  },
+  
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Rishabh_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Rishabh_Profile_img.jpg",
+    "userName": "Rishabh Chaubey"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Prabhakar_Story_img.jpg",
+    "profileLogo": " /Image/HomePage/Story/Prabhakar_Profile_img.jpg",
+    "userName": "Prabhakar Raajput"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Piyush_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Piyush_Profile_img.jpg",
+    "userName": "Piyush Pandey"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Pawan_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Pawan_Profile_img.jpg",
+    "userName": "Pawan Kumar"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Nitish_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Nitish_Profile_img.jpg",
+    "userName": "Nitish Mishra"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Niraj_Story_img.jpeg",
+    "profileLogo": "/Image/HomePage/Story/Niraj_Profile_img.jpg",
+    "userName": "Niraj Singh"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Manish_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Manish_Profile_img.jpg",
+    "userName": "Manish Patel"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Gautam_Story_img.jpeg",
+    "profileLogo": "/Image/HomePage/Story/Gautam_Profile_img.jpg",
+    "userName": "Gautam Yadav"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Aman_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Aman_Profile_img.jpg",
+    "userName": "Aman Rathore"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Akash_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Akash_Profile_img.jpg",
+    "userName": "Akash Patel"
+  },
+  {
+    "type": "story",
+    "bgImage": "/Image/HomePage/Story/Aashutosh_Story_img.jpg",
+    "profileLogo": "/Image/HomePage/Story/Aashutosh_Profile_img.jpg",
+    "userName": "Aashutosh Patel"
+  }
+
+]

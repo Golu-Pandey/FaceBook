@@ -1,0 +1,263 @@
+
+.box-shadow-2 {
+    background-color: #fff;
+    box-shadow: 0 2px 7px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    padding: 8px;
+    margin: 5px;
+}
+.profile-posts{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.photo-box-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.photo-box-1-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-box-1-tittle {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+
+.logo-title-inner {
+    display: flex;
+    gap: 4px;
+}
+
+.logo-time-tittle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.logo-aaj-tak {
+    border-radius: 50%;
+    border: 3px solid hsl(207, 100%, 50%);
+    width: 45px;
+   
+}
+
+.verified-blue-tick {
+    width: 18px;
+    height: 18px;
+}
+
+.global-logo {
+    width: 13px;
+    height: 13px;
+    margin-top: 5px;
+}
+
+.photo-box-1-right {
+    display: flex;
+    align-items: center;
+    /* gap: 30px; */
+}
+
+.cross {
+  padding: 10px;
+  border-radius: 50%;
+  transition: background-color 0.2s ease;
+}
+.cross:hover {
+ background-color: #F2F3F5;
+}
+
+
+.dot{
+    width: 35px;
+}
+
+.x-mark{
+    width: 30px;
+    /* border-radius: 50%; */
+}
+/* .cross{
+    padding: 10px 10px;
+} */
+/* .x-mark:hover{
+  
+    background: #1957c1a6;
+} */
+.photo-box-2 {
+    padding-top: 5px;
+}
+
+.aaj-tak-post {
+    width: 100%;
+    max-height: 450px;
+    object-fit: cover;
+}
+
+.photo-box-3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5px;
+    border-bottom: 1px solid #ddd;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #65676B;
+
+}
+
+.like-count {
+    /* ye jo like kitna hua hai uska jo count number hai usko center me krne ke liye display use kiye hai*/
+    display: flex;
+    align-items: center;
+}
+
+.like-count a {
+    /* display: inline-flex; - ye element ko ek line me krta hai barabr */
+    display: inline-flex;
+    align-items: center;
+}
+
+.like-emoji {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.count-number {
+    margin-left: 4px;
+}
+.count-number:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.count-comments-count-shares {
+    /*  display: flex; - display flex isiliye diye hai ki , gap laga sake bina display flex ke gap work nhi karta hai */
+    display: flex;
+    gap: 12px;
+}
+
+.count-comments-count-shares span {
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.count-comments-count-shares span:hover {
+    text-decoration: underline;
+    color: #5a5c5f;
+}
+
+.photo-box-4 {
+    display: flex;
+    justify-content: space-evenly;
+    color: #65676B;
+    font-family: Arial, sans-serif;
+    padding-top: 5px;
+}
+
+.photo-box-4:hover {
+    cursor: pointer;
+}
+
+.like-icon {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 0px 37px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.like-icon:hover {
+    background: #cbcfd6a6;
+}
+
+.like i {
+    color: rgb(128, 125, 125);
+    font-size: 20px;
+}
+
+.comment-icon {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 0px 15px;
+    margin-right: 40px;
+    border-radius: 5px;
+}
+
+.comment-icon:hover {
+    background: #cbcfd6a6;
+}
+
+.comment {
+    width: 25px;
+
+}
+
+.share-icon {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 0px 30px;
+    border-radius: 5px;
+}
+
+.share-icon:hover {
+    background: #cbcfd6a6;
+}
+
+.share {
+    width: 18px;
+    padding-top: 3px;
+}
+
+.Cricket-logo {
+    width: 45px;
+    border-radius: 50%;
+    border: 3px solid hsl(207, 100%, 50%);
+}
+
+.Head_line{
+   margin: 6px 0 10px 1px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #080809;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+
+
+/* collapsed state */
+.Head_line.collapsed {
+  max-height: 60px; /* initialLength ke equal */
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+/* expanded state */
+/* .Head_line.expanded {
+  max-height: 1000px;
+  transition: max-height 0.3s ease;
+} */
+
+/* toggle button */
+.toggle-btn {
+  color: blue;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 5px;
+}
+.Head_line {
+  transition: all 0.3s ease;
+}

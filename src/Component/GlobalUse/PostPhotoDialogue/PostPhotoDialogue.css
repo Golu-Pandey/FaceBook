@@ -1,0 +1,121 @@
+/* Background overlay */
+.PostPhotoDialoguePostOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(240 242 245 / 16%);
+  backdrop-filter: blur(4px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 11;
+}
+
+/* Dialog Box */
+.PostPhotoDialoguePost {
+  background: #ffffff;
+  width: 600px;
+  max-width: 90%;
+  /* height: 500px; */
+  max-height: 90%;
+  border-radius: 14px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  padding: 15px 20px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+
+/* Header Section */
+.PostPhotoDialoguePostHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.PostPhotoDialoguePostHeaderh2 {
+  font-size: 21px;
+  margin: 0;
+  font-weight: bold;
+  font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.PostPhotoDialoguePostCloseBtn {
+  background: none;
+  border: none;
+  font-size: 23px;
+  cursor: pointer;
+}
+
+/* Status Input */
+.PostPhotoDialoguePostStatusInput {
+  width: 100%;
+  min-height: 80px;
+  border: none;
+  resize: none;
+  padding: 10px;
+  font-size: 16px;
+  outline: none;
+  margin-bottom: 15px;
+  background: #f5f6f7;
+  border-radius: 8px;
+  font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+  flex: 1;
+}
+
+/* Image Section */
+.PostPhotoDialogueImageParent {
+  width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 300px;
+  min-height: 300px; 
+  margin-bottom: 10px;
+   flex-shrink: 0;
+
+  /* border: 1px solid red; */
+}
+
+.PostPhotoDialogueImage {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Post Button */
+.PostPhotoDialoguePostPostBtn {
+  width: 100%;
+  background: #1877f2;
+  color: white;
+  border: none;
+  padding: 12px 0;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+
+}
+
+.PostPhotoDialoguePostPostBtn:hover {
+  background: #0f6ae6;
+}
+
+.PostPhotoDialogueSelectNewBtn {
+  width: 33%;
+  background: black;
+  color: white;
+  border: none;
+  padding: 12px 0;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.PostPhotoDialogueSelectNewBtn:hover {
+  background: #1877f2;
+}
+

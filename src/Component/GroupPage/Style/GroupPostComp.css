@@ -1,0 +1,355 @@
+/* Group-right-Page - START */
+.group-right-page {
+    width: 65%;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    margin-left: 36%;
+}
+
+.group-main-section {
+    overflow-y: auto;
+    height: 100vh;
+}
+
+.total-line-hed {
+    /* box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1); */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 10px;
+}
+
+.group-top-post-content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 10px;
+    padding: 8px 5px 11px 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: white;
+}
+
+.right-content {
+    position: relative;
+    top: 0;
+    margin-left: 10px;
+}
+
+.right-content-1 {
+    width: 36px;
+    border-radius: 8px;
+
+}
+
+.post-group-logo-end {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.group-post-logo {
+    position: absolute;
+    left: 20px;
+    top: 15px;
+
+}
+
+.group-post-logo img {
+    width: 24px;
+    border-radius: 15px;
+}
+
+.group-menu {
+    padding: 3px 6px;
+    border-radius: 50%;
+   position: relative;
+}
+
+.group-menu img {
+    width: 25px;
+    /* margin-right: 10px; */
+}
+
+.group-menu img:hover {
+    cursor: pointer;
+    border: 2px solid rgb(219, 215, 215);
+    background-color: #eeeff0;
+    border-radius: 50%;
+}
+
+.Menu_List_Style_GroupPage{
+    position: absolute;
+    top: 30px;
+    /* parent ke niche */
+    right: 0%;
+    /* right align */
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+    /* upar rahe */
+    min-width: 200px;
+    /* width adjust kar sakte ho */
+}
+
+.grou-text-style {
+    font-size: 15px;
+    color: #080809;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.totally-top-post-heder {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+
+
+}
+
+.grou-text-style1 {
+    font-weight: 600;
+    font-size: 13px;
+    color: #65686C;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.grou-text-style2 {
+    font-weight: 600;
+    font-size: 15px;
+    color: #65686C;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.grou-text-style3 {
+    font-weight: 500;
+    font-size: 13px;
+    color: #65686C;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+    background-color: #e7ecf2;
+    border-radius: 5px;
+    padding: 3px 2px 2px 2px;
+    background-color: white;
+}
+
+.grou-text-style4 i {
+    color: #65686C;
+    font-size: 14px;
+}
+
+.detail-post {
+    display: flex;
+
+    padding-left: 10px;
+    background-color: white;
+}
+
+.post-image-group img {
+    width: 752px;
+    height: 450px;
+    object-fit: cover;
+}
+
+.count-number-like-comment-share {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px;
+    border-bottom: 1px solid grey;
+    margin: 8px;
+}
+
+.comment-share-count-to {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.share-count-6 {
+    color: #65686C;
+    font-size: 15px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.share-count-6:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.comment-count-5 {
+    color: #65686C;
+    font-size: 15px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.comment-count-5:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.like-cout-4:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.like-cout-4 {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: #65686C;
+    font-size: 15px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.group-blue-like {
+    width: 20px;
+    padding-top: 5px;
+}
+
+.group-post-1 {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    /* width: 755px; */
+    max-width: 83.7%;
+}
+
+.group-bottom-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin: 10px 0px;
+    height: 30px;
+}
+
+.border-line {
+    border-bottom: 1px solid grey;
+    margin: 10px;
+}
+
+.group-icon-img-1 {
+    width: 25px;
+    height: 25px;
+}
+
+.group-icon-img-2 {
+    width: 20px;
+    height: 18px;
+}
+
+.like-icon-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 54px;
+    border-radius: 8px;
+}
+
+.like-icon-group:hover {
+    background-color: #E2E5E9;
+    cursor: pointer;
+}
+
+.comment-icon-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px 38px;
+    border-radius: 8px;
+}
+
+.comment-icon-group:hover {
+    background-color: #E2E5E9;
+    cursor: pointer;
+}
+
+.share-icon-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 48px;
+    border-radius: 8px;
+}
+
+.share-icon-group:hover {
+    background-color: #E2E5E9;
+    cursor: pointer;
+}
+
+.comment-box-bottom {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.golu-group-logo {
+    width: 30px;
+    border-radius: 18px;
+    border: 1px solid grey;
+}
+
+.golu-group-logo:hover {
+    cursor: pointer;
+    opacity: 0.80;
+    transition: 0.1s;
+}
+
+.comment-box-bottom {
+    width: 650px;
+    display: flex;
+    align-items: center;
+    background-color: #f0f2f5;
+    padding: 7px 2px;
+    border-radius: 99px;
+}
+
+.comment-box-bottom input {
+    width: 100%;
+    border: none;
+    background: #f0f2f5;
+    font-size: 15px;
+    outline: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 15px;
+}
+
+.like-comment-logo-box {
+    box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    margin-top: -10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: white;
+}
+
+.logo-grop-botto {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px;
+    padding-bottom: 10px;
+    height: 40px;
+}
+
+.group-icon-like1 i {
+    font-size: 18px;
+    color: #65686C;
+}
+
+.group-bottom-comment-total-icon i {
+    color: #65686C;
+    font-size: 16px;
+}
+
+.group-icon_text{
+    font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #65686c;
+}
+
+.yesGroupLiked i, .yesGroupLiked{
+    color:blue;
+}

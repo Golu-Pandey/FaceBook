@@ -1,0 +1,38 @@
+.aTag_Style{
+   text-decoration: none;
+}
+
+.friend-card{
+   display: flex;
+   flex-direction: column;
+   padding: 2px;
+   margin: 5px 0px;
+   color: black;
+}
+
+.friend-card:hover{
+   background-color: aliceblue;
+   cursor: pointer;
+   opacity: 0.88;
+}
+
+.singleProfilefrendPhotos-card{
+   width: 98%;
+   height: 108px;
+   object-fit: cover;
+   border-radius: 5px;
+}
+
+
+.friendNameInProfile{
+   display: block;
+   text-align: center;
+   word-break:break-all;
+}
+
+.friendNameInProfile:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+    cursor: pointer;
+}

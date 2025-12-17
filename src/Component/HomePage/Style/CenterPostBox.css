@@ -1,0 +1,93 @@
+/* CenterPostBox.css */
+
+.box-shadow {
+  background: #fff;
+  padding: 12px;
+  margin: 16px 0px 5px 0px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  /* max-width: 600px;  */
+
+}
+
+.main-center-profile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.center-profile-box__figure {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.center-profile-box__figure:hover {
+  opacity: 0.85;
+}
+
+.create-post {
+  flex: 1;
+  border: none;
+  background: #f0f2f5;
+  padding: 10px 15px;
+  border-radius: 25px;
+  font-size: 15px;
+  outline: none;
+}
+
+.create-post:hover {
+  cursor: pointer;
+  background: #e1e3e6;
+}
+
+.media-live-reel {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+}
+
+.media-live-reel .photo-video {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 14px;
+  color: #65676b;
+  padding: 6px 8px;
+  border-radius: 6px;
+  flex: 1;
+  justify-content: center;
+}
+
+.media-live-reel .photo-video:hover {
+  background: #f0f2f5;
+}
+
+.media-live-reel img {
+  width: 20px;
+  height: 20px;
+}
+
+
+.homePagePhotoIconBoxOnAndOff_Parent {
+  position: absolute;
+  left: 0;
+  top: 55px;
+  z-index: 100;
+}
+
+.homePagePhotoIconBoxOnAndOff {
+  width: 88%;
+  max-width: 450px;
+  height: 605px;
+  max-height: 850px;
+
+  /* border: 1px solid red; */
+}

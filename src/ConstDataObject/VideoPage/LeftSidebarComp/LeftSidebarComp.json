@@ -1,0 +1,53 @@
+{
+      "navbarIcon": {
+        "videoSetting": {
+          "title": "Video",
+          "settingIcon": "/Image/Video/LeftSidebar_Video_Post/Setting.jpg",
+          "settingLink": ""
+        },
+        "searchBox": {
+          "searchLink": "",
+          "searchIconClass": "fa-solid fa-magnifying-glass",
+          "inputPlaceholder": "Search videos",
+          "inputClass": "market-seach"
+        }
+      },
+      "homePhotos": [
+        {
+          "link": "",
+          "iconType": "image",
+          "iconSrc": "/Image/Video/LeftSidebar_Video_Post/video.png",
+          "title": "Home",
+          "className": "video-logo"
+        },
+        {
+          "link": "",
+          "iconType": "font-awesome",
+          "iconClass": "fa-solid fa-video",
+          "title": "Live",
+          "className": "icon-left"
+        },
+        {
+          "link": "",
+          "iconType": "image",
+          "iconSrc": "/Image/Video/LeftSidebar_Video_Post/reel1.png",
+          "title": "Reels",
+          "className": "video-logo"
+        },
+        {
+          "link": "",
+          "iconType": "image",
+          "iconSrc": "/Image/Video/LeftSidebar_Video_Post/rocket-icon.png",
+          "title": "Explore",
+          "className": "video-logo"
+        },
+        {
+          "link": "",
+          "iconType": "font-awesome",
+          "iconClass": "fa-solid fa-bookmark",
+          "title": "Saved videos",
+          "className": "icon-left-saved"
+        }
+      ]
+    }
+  

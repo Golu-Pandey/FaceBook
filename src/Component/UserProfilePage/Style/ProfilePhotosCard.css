@@ -1,0 +1,16 @@
+.ProfilePhotos-card{
+   height: 108px;
+   padding: 5px;
+}
+
+.singleProfilePhotos-card:hover{
+   cursor: pointer;
+   opacity: 0.85;
+}
+
+.singleProfilePhotos-card{
+   margin: 5px;
+   width: 98%;
+   height: 98%;
+   object-fit: cover;
+}

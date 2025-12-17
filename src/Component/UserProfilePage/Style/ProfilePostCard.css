@@ -1,0 +1,271 @@
+.post_card {
+    position: relative;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 5px;
+    padding: 10px 0px 0px 0px;
+    font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+}
+
+.Header_box_parent {
+    padding: 0px 10px;
+}
+
+.post-profile-pic-wrapper {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.post-profile-pic-wrapper:hover {
+    background-color: #717375;
+    opacity: 0.80;
+}
+
+.post-profile-pic {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.Header_box_top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile_name {
+    font-size: 15px;
+    font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: #080809;
+}
+
+.profile_name:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+    cursor: pointer;
+}
+
+.SeeMore_SeeLess {
+    font-size: 15px;
+    color: #080809;
+    font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+
+}
+.SeeMore_SeeLess:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+    cursor: pointer;
+}
+.Header_box_down {
+    max-width: 90%;
+    padding: 10px 2px;
+}
+
+
+
+.photo-box-1-right {
+    cursor: pointer;
+}
+
+.dot:hover {
+    cursor: pointer;
+    background-color: #d2d4da;
+}
+
+/* Menu ko icon ke just niche show karo */
+.Menu_List_Style {
+    position: absolute;
+    top: 7%;
+    /* parent ke niche */
+    right: 0px;
+    /* right align */
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+    /* upar rahe */
+    min-width: 200px;
+    /* width adjust kar sakte ho */
+}
+
+
+.post_time {
+    font-size: 13px;
+    font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+    color: #65686c;
+}
+
+.post_time:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+}
+
+.Summary {
+    transition: all 0.3s ease;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #080809;
+}
+
+
+.post-img {
+    width: 100%;
+    max-height: 450px;
+    object-fit: contain;
+}
+
+.Footer_box_parent {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    color: #65676B;
+    font-family: Arial, sans-serif;
+    padding: 5px 0px;
+    border-top: 1px solid gray;
+
+}
+
+.Footer_box_parent:hover {
+    cursor: pointer;
+}
+
+.post-reaction {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 13px;
+
+}
+
+.reaction-icons {
+    display: flex;
+    gap: 3px;
+}
+
+.icon_all_emoji {
+    display: flex;
+    align-items: center;
+}
+
+.icon_all_emoji img {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: -6px;
+    /* overlap create karega */
+    position: relative;
+}
+
+.icon_all_emoji img:first-child {
+    margin-left: 0;
+    /* pehla image normal rahe */
+}
+
+.icon_all_emoji img:nth-child(2) {
+    top: 0px;
+    /* thoda upar */
+    z-index: 2;
+}
+
+.icon_all_emoji img:nth-child(3) {
+    top: 0px;
+    /* aur thoda upar */
+    z-index: 3;
+}
+
+
+
+.text_Like_style {
+    font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+    color: #77797c;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.text_Like_style:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+}
+
+.comment_share_count {
+    height: 100%;
+    padding-bottom: 5px;
+}
+
+
+.reaction-icons img {
+    width: 20px;
+    margin-right: 3px;
+}
+
+.comment_share_count {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.like_icon_text {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 50px;
+    border-radius: 5px;
+}
+
+.like_icon_text:hover {
+    background-color: #e5e9ed;
+}
+
+.liked i {
+    color: rgb(128, 125, 125);
+    font-size: 20px;
+    padding-top: 1px;
+}
+
+.comment_icon_text {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 29px;
+    border-radius: 5px;
+}
+
+.comment_icon_text:hover {
+    background-color: #e5e9ed;
+}
+
+.share_icon_text {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 42px;
+    border-radius: 5px;
+}
+
+.share_icon_text:hover {
+    background-color: #e5e9ed;
+
+}
+
+.style_All_text_reaction_name {
+    font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #65686c;
+}
+
+.yesLiked i, .yesLiked{
+  color: blue;
+}

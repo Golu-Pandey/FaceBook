@@ -1,0 +1,31 @@
+.user-profile-page {
+    width: 100%;
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.profileBottomContent {
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    background-color: #f0f2f5;
+}
+
+.profileLeftContent {
+    margin-top: 20px;
+    width: 27%;
+    max-height: 80vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: none;
+}
+
+.profileRightContent {
+    width: 40%;
+    padding-top: 4px;
+    max-height: 80vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: none;
+}

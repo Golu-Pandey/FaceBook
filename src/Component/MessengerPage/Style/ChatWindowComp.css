@@ -1,0 +1,387 @@
+/*  Messenger-Page-Center- START*/
+.messenger-page-center {
+    position: fixed;
+    width: 48%;
+    margin-left: 26.4%;
+    margin-top: 14px;
+    box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1);
+
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 97px);
+    border-radius: 10px;
+    /* top se bottom tak box */
+    background: white;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+.messenger-page-center-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1);
+    height: 64px;
+    padding: 10px 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background: white;
+    z-index: 10;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo-name-center-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    border-radius: 6px;
+    width: 100%;
+
+}
+
+
+
+.logo-name-center-content_right_icons {
+    display: flex;
+    gap: 20px;
+    margin-right: 10px;
+}
+
+.messenger_chat_UserCard {
+    height: 100%;
+    position: relative;
+    /* margin-left: 5px; */
+}
+
+
+.messenger_chat_UserCard {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.logo-name-center-content_left{
+   padding: 5px 7px;
+   border-radius: 8px;
+}
+.logo-name-center-content_left:hover{
+    cursor: pointer;
+          background-color: #f3f0f0;
+}
+
+
+.messenger_chat_profilePic {
+    border-radius: 50%;
+    width: 40px;
+}
+
+.messenger_chat_userName {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    padding-bottom: 5px;
+    color: #080809;
+    display: flex;
+    flex-direction: column;
+}
+
+.messenger_chat_userNameActive_Symbol {
+    border: 2px solid white;
+    border-radius: 50%;
+    display: block;
+    height: 11px;
+    width: 11px;
+    position: absolute;
+    left: 51px;
+    top: 37px;
+}
+
+.messenger_chat_userNameActive_Symbol i {
+    border: 5px solid #3FBB46;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0px;
+}
+
+.messenger_chat_userName_ActiveNow{
+    color: #65686c;
+    font-size: 13px;
+}
+
+.icon-center {
+    padding: 7px 6px;
+    border-radius: 50px;
+}
+
+
+.icon-center i {
+    color: #aa00ff;
+    font-size: 19px;
+}
+
+.Center_Profile_User_Name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    color: #080809;
+}
+
+
+.center_profileImg_profileName {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 35px 0px;
+    gap: 10px;
+}
+
+.user_profile_img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+
+
+.all-content-chat-page {
+    display: flex;
+    flex-direction: column-reverse;
+    min-height: 455px;
+    overflow-y: auto;
+    /* border: 1px solid red; */
+    scroll-behavior: smooth;
+    width: 100%;
+}
+
+
+.text-chat-logo {
+    padding-top: 15px;
+}
+
+.userMessege_sender {
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 5px -7px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+.userMessege_reciever {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: 100%;
+    margin: 5px 0px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #080809;
+
+    /* border: 1px solid green; */
+}
+
+.userMessege_reciever_user_profile_img{
+    width: 32px;
+    border-radius: 50%;
+}
+
+.userMessege_text_sender {
+    max-width: 70%;
+    /* display: flex;
+    flex-direction: row-reverse; */
+    background-color: #0070f6;
+    padding: 8px;
+    border-radius: 25px 5px 5px 25px;
+    word-break: none;
+    word-wrap: break-word;
+}
+
+.userMessege_text_reciever {
+    max-width: 60%;
+    background-color: rgb(234, 228, 228);
+    padding: 6px 9px 8px 12px;
+    border-radius: 25px;
+     word-wrap: break-word;
+}
+
+.userMessege_text_sender_image img {
+    max-width: 150px;
+}
+
+.userMessege_text_reciever_image img {
+    max-width: 150px
+}
+
+
+
+
+.start-type-chat-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 4px;
+    margin: 5px 8px;
+    position: fixed;
+    bottom: 24px;
+    width: 47%;
+    background-color: white;
+
+}
+
+.chat-start-type-icon {
+    display: flex;
+    align-items: center;
+}
+
+.smile-icon {
+    color: #0070f6;
+    font-size: 18px;
+   padding: 2px 5px 4px 6px;
+    border-radius: 50%;
+}
+
+.smile-icon:hover {
+    background-color: #e0e2e9;
+    cursor: pointer;
+}
+
+.typing-line-icon {
+    color: #0070f6;
+    font-size: 18px;
+    padding: 7px 5px 4px 6px;
+    border-radius: 50%;
+}
+
+.typing-line-icon:hover {
+    background-color: #e0e2e9;
+    cursor: pointer;
+}
+
+.gif-icon {
+    display: inline-block;
+    background: #0070f6;
+    /* नीला */
+    color: #fff;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 1px 1px;
+    /* padding: 7px 5px 4px 6px; */
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gif-icon:hover {
+    background-color: #e0e2e9;
+    cursor: pointer;
+}
+
+.input-emoji {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+    background-color: #f0f2f5;
+
+    border-radius: 999px;
+    padding: 2px;
+    margin: 10px;
+    width: 446px;
+}
+
+.messenger_chat_bottom_input {
+    padding-left: 12px;
+}
+
+.input-emoji input {
+    width: 100%;
+    border: none;
+    background: #f0f2f5;
+    font-size: 15px;
+    outline: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.send_recieve_icons {
+    color: #0070f6;
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.send_recieve_icons span {
+    border-radius: 50%;
+}
+
+.reciever {
+    padding: 3px 8px 0px 4px;
+}
+
+.sender {
+    padding: 3px 3px 0px 8px;
+}
+
+.reciever:hover {
+    cursor: pointer;
+    background-color: #cbcfd6a6;
+
+}
+
+.sender:hover {
+    cursor: pointer;
+    background-color: #cbcfd6a6;
+    ;
+}
+
+
+.chatWindowCompPhotoBoxDialuge{
+    height: 450px;
+    max-height: 450px;
+    /* border: 1px solid red; */
+}
+
+
+.userMessege_sender:hover{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.userMessege_reciever{
+    cursor: pointer;
+}
+/* Default – menu icon hidden */
+.Menu_Messenge {
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+    pointer-events: none; /* hidden होने पर click disable */
+}
+
+/* Hover on full card – menu icon visible */
+.userMessege_sender:hover .Menu_Messenge {
+    font-size: 19px;
+    color: black;
+    cursor: pointer;
+    margin-left: 5px;
+    padding-right: 10px;
+    opacity: 1;
+    pointer-events: auto; /* visible होने पर click enable */
+}
+
+/* Hover on full card – menu icon visible */
+.userMessege_reciever:hover .Menu_Messenge {
+    font-size: 19px;
+    color: black;
+    cursor: pointer;
+    margin-left: 5px;
+    padding-right: 10px;
+    opacity: 1;
+    pointer-events: auto; /* visible होने पर click enable */
+}

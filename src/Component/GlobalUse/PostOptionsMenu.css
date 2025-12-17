@@ -1,0 +1,50 @@
+.options-container {
+ width: 315px;
+  max-height: 50vh;
+  padding: 16px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  overflow-y: auto;
+}
+
+.option-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 10px;
+  border-radius: 8px;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.option-item:hover {
+  background-color: #f5f5f5;
+}
+
+.option-icon {
+  font-size: 20px;
+  margin-top: 3px;
+}
+
+.option-texts {
+  display: flex;
+  flex-direction: column;
+}
+
+.option-title {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.option-subtext {
+  font-size: 12px;
+  color: #555;
+  margin-top: 2px;
+}
+
+.option-item:last-child {
+  border-bottom: none;
+}

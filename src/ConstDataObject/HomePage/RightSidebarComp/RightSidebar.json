@@ -1,0 +1,138 @@
+{
+  "sponsored": [
+    {
+      "image": "/Image/HomePage/RightSidebar/sonsored_img.jpeg",
+      "title": "Online program for beginners",
+      "website": "coursera.org"
+    },
+    {
+      "image": "/Image/HomePage/RightSidebar/sponsored1_img.jpeg",
+      "title": "Top-tier AI models—free for students",
+      "website": "eduarena.ai"
+    }
+  ],
+  "friendRequests": [
+    {
+      "profileImage": "/Image/HomePage/RightSidebar/profile-logo-request_img.png",
+      "name": "Menu Pandey Menu Pandey",
+      "mutualFriends": [
+        "/Image/HomePage/RightSidebar/profile-mutual-frends_img.jpg",
+        "/Image/HomePage/RightSidebar/profile-mutual-frends1_img.jpg"
+      ],
+      "mutualCount": 2,
+      "actions": {
+        "confirm": "Confirm",
+        "delete": "Delete"
+      }
+    }
+  ],
+  "birthdays": [
+    {
+      "image": "/Image/HomePage/RightSidebar/birthday_img.png",
+      "names": [
+        "Rajveer Gupta",
+        "4 others"
+      ]
+    }
+  ],
+  "contacts": {
+    "header": "Contacts",
+    "icons": {
+      "search": "fa-solid fa-magnifying-glass",
+      "menu": "fa-solid fa-ellipsis"
+    },
+    "activePeople": [
+      {
+        "userId": 13,
+        "name": "Jayant Limbachiya",
+        "image": "/Image/HomePage/Post/Jayant_Profile_img.jpg",
+        "storyActive": true,
+        "statusActive": true
+      },
+      {
+        "userId": 10,
+        "name": "Ravi Raj",
+        "image": "/Image/HomePage/Post/Ravi_Raj_Profle_img.jpg",
+        "storyActive": false,
+        "statusActive": true
+      },
+      {
+        "userId": 19,
+        "name": "Brahman Ashutosh Pathak",
+        "image": "/Image/HomePage/Post/Aashutosh_Profile_img.jpg",
+        "storyActive": false,
+        "statusActive": false
+      },
+      {
+        "userId": 3,
+        "name": "Uttam Patel",
+        "image": "/Image/HomePage/Post/Uttam_Profile_img.jpg",
+        "storyActive": true,
+        "statusActive": true
+      },
+      {
+        "userId": 15,
+        "name": "Dalal_News_Funny",
+        "image": "/Image/HomePage/Post/Dalal_News_Profile_img.jpg",
+        "storyActive": true,
+        "statusActive": false
+      },
+      {
+        "userId": 8,
+        "name": "Shivesh Ram",
+        "image": "/Image/HomePage/Post/shivesh_profile_image.jpg",
+        "storyActive": true,
+        "statusActive": true
+      },
+      {
+        "userId": 12,
+        "name": "Nitish Sharma",
+        "image": "/Image/HomePage/Post/Nitish_Profile_img.jpg",
+        "storyActive": true,
+        "statusActive": true
+      },
+      {
+        "userId": 7,
+        "name": "Somnath Mukherjee",
+        "image": "/Image/HomePage/Post/Somnath_Profile_img.jpg",
+        "storyActive": false,
+        "statusActive": true
+      },
+      {
+         "userId": 5,
+        "name": "Sumit Singh",
+        "image": "/Image/HomePage/Post/Sumit_Profile_img.jpg",
+        "storyActive": true,
+        "statusActive": false
+      },
+      {
+        "userId": 2,
+        "name": "Vishnu Keshri",
+        "image": "/Image/HomePage/Post/Vishnu_Profile_img.jpg",
+        "storyActive": true,
+        "statusActive": true
+      }
+    ],
+    "metaAI": {
+      "image": "/Image/HomePage/RightSidebar/meta ai_img.png",
+      "name": "Meta AI",
+      "verified": "/Image/HomePage/RightSidebar/verified-blue-tick3_img.webp"
+    }
+  },
+  "groupChats": [
+    {
+      "images": [
+        "/Image/HomePage/RightSidebar/group-chat-img-pulkit.jpg",
+        "/Image/HomePage/RightSidebar/group-chat-img-राय जी.jpg"
+      ],
+      "names": "राय जी and Pulkit"
+    },
+    {
+      "images": [
+        "/Image/HomePage/RightSidebar/group-chat-img-jitu.jpg",
+        "/Image/HomePage/RightSidebar/group-chat-img-suraj.jpg"
+      ],
+      "names": "Jitu and Sűrąj"
+    }
+  ]
+}

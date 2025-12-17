@@ -1,0 +1,291 @@
+.total-post {
+    max-width: 83.7%;
+    border-radius: 8px;
+    /* box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1); */
+    margin-bottom: 15px;
+    background-color: white;
+    position: relative;
+}
+
+.right-video-page {
+    padding-top: 15px;
+    margin-left: 36%;
+}
+
+/* .right-video-post {
+    padding-top: 10px;
+} */
+
+.right-video-post-content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+.menu-3dot{
+    cursor: pointer;
+}
+
+.post-logo-after {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.menu-3dot a {
+    color: #65676b;
+    font-size: 18px;
+    padding: 6px 8px;
+    border-radius: 50%;
+    transition: background-color 0.2s;
+}
+
+.menu-3dot a:hover {
+    background: #e4e6eb;
+}
+
+
+.Menu_List_Style_VideoPage{
+     position: absolute;
+    top: 9%;
+    /* parent ke niche */
+    right: 0%;
+    /* right align */
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+    /* upar rahe */
+    min-width: 200px;
+    /* width adjust kar sakte ho */
+}
+
+.post-img-logo {
+    width: 48px;
+    height: 48px;
+    border-radius: 30px;
+}
+.post-img-logo:hover{
+    cursor: pointer;
+    opacity: 0.85;
+}
+
+.post-name {
+    font-size: 15px;
+    font-weight: 600;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+    color: #080809;
+}
+.post-name:hover{
+     text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+    cursor: pointer;
+}
+.post-time-date {
+    color: #656863;
+}
+.post-time-date:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+    cursor: pointer;
+}
+.global-icon i {
+    color: #656863;
+    font-size: 13.20px;
+}
+
+.text-follow span {
+    color: #0064D1;
+}
+.text-follow span:hover{
+     text-decoration: underline;
+    text-decoration-thickness: 1.7px;
+    text-decoration-color: #105bcc;
+    cursor: pointer;
+}
+.text-follow {
+    text-decoration: none;
+}
+
+.right-left {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.post-location-time {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.post_video_top_parent{
+    padding: 10px 10px;
+    /* box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1); */
+}
+.post-picture-video {
+    width: 740px;
+    height: 400px;
+}
+
+/* .post-picture-video1 {
+    width: 725px;
+    height: 341px;
+}
+
+.post-picture-video2 {
+    width: 725px;
+    height: 341px;
+} */
+
+/* video-post-like-comment-share-img-icon-text */
+.video-post-like-comment-share {
+    display: flex;
+    align-items: center;
+}
+
+.text_Like_Comment_Share{
+    font-size: 13px;
+    font-weight: 600;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+    color: #65686C;
+}
+
+.like-logo-like-icon {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 12px;
+    border-radius: 8px;
+}
+
+.like-logo-like-icon:hover {
+    cursor: pointer;
+    background-color: #f3f0f0;
+}
+
+.like-logo-like {
+    color: rgb(128, 125, 125);
+    font-size: 18px;
+    padding-top: 2px;
+}
+
+.comment-logo-comment-icon {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 12px;
+    border-radius: 8px;
+}
+
+.comment-logo-comment-icon:hover {
+    cursor: pointer;
+    background-color: #f3f0f0;
+}
+
+.comment-logo-comment {
+    width: 20px;
+    padding-top: 4px;
+    border-radius: 10%;
+}
+
+.share-logo-share-icon {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+   padding: 5px 12px 5px 12px;
+    border-radius: 8px;
+}
+.share-logo-share-icon:hover{
+     cursor: pointer;
+    background-color: #f3f0f0;
+}
+.share-logo-share {
+    width: 18px;
+    padding-top: 6px;
+}
+
+/* like-count-comment-count-views-count */
+.like-count-comment-count-share-count {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 0px 5px;
+}
+
+.like-count {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.like-count span {
+    font-size: 12px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+    color: #65686C;
+}
+.like-count span:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+    cursor: pointer;
+}
+.like-emoj {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.like-emoj:hover{
+    cursor: pointer;
+}
+.comment-count {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.comment-count span {
+    font-size: 13px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+    color: #65686C;
+}
+.comment-count span:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #77797c;
+    cursor: pointer;
+}
+.view-count {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.view-count span {
+    font-size: 13px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+    color: #65686C;
+}
+
+.like-page-comment-page-share-page {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+    padding: 5px 10px;
+}
+
+.script-line {
+    padding-bottom: 5px;
+    padding-left: 3px;
+}
+
+
+.yesLikedVideo i, .yesLikedVideo{
+    color:blue;
+}

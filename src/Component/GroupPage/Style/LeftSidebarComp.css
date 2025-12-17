@@ -1,0 +1,222 @@
+.group-left-page {
+   box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1);
+   width: 350px;
+   height: 100vh;         /* full screen height */
+   background: #fff;
+   position: fixed;       /* fixed sidebar */
+   top: 52px;
+   left: 0;
+   overflow-y: auto;      /* andar content scroll */
+}
+
+
+.groups-setting-icon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.top-stiicky {
+    position: fixed;
+    top: 52px;   /* agar upar ka Facebook header height 60px hai to ye rakho */
+    width: 335px;   /* apne sidebar ki width ke hisaab se */
+    background: #fff;
+    z-index: 1000;
+    border-bottom: 1px solid #ddd;
+    padding: 0px 10px 10px 20px;
+}
+.group-content-left {
+    margin-top: 113px;  /* same height jitna sticky box hai */
+}
+
+.head-line {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #080809;
+}
+
+.setting-logo-group {
+    width: 36px;
+    border-radius: 50%;
+}
+.setting-logo-group:hover{
+    cursor: pointer;
+    opacity: 0.80;
+}
+.search-box-left {
+    display: flex;
+    align-items: center;
+    background-color: #f0f2f5;
+    padding: 4px 12px;
+    border-radius: 999px;
+    gap: 10px;
+}
+
+.search-group i {
+    color: #797b7d;
+}
+
+.groups-search {
+    padding: 7px 6px 9px;
+    border: none;
+    background: #f0f2f5;
+    font-size: 15px;
+    outline: none;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.left-icon-feed {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 8px 8px;
+   margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 8px;
+}
+.left-icon-feed:hover{
+  background-color: #E2E5E9;
+  cursor: pointer;
+}
+
+.icon-feed {
+    width: 36px;
+    border-radius: 50%;
+    border: 1px solid #E2E5E9;
+    background-color: #E2E5E9;
+}
+
+.logo-icon-name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: #080809;
+}
+
+.left-icon-discover {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border-radius: 8px;
+    padding: 8px 8px;
+        margin-left: 10px;
+
+}
+.left-icon-discover:hover{
+   background-color: #E2E5E9;
+  cursor: pointer;
+}
+.compass-icon i {
+    color: #080809;
+    font-size: 18px;
+    background-color: #E2E5E9;
+    border-radius: 50%;
+    padding: 8px 8px 8px 8px;
+    border: 1px solid #E2E5E9;
+}
+
+.left-icon-groups {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 10px;
+    border-radius: 8px;
+    padding: 8px 8px;
+}
+.left-icon-groups:hover {
+     background-color: #E2E5E9;
+  cursor: pointer;
+}
+.pepole-groups i {
+    color: #080809;
+    font-size: 17px;
+    background-color: #E2E5E9;
+    border-radius: 50%;
+    padding: 8px 7px 8px 6px;
+    border: 1px solid #E2E5E9;
+}
+
+.add-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: #EBF5FF;
+    border-radius: 8px;
+    padding: 10px 0px;
+   margin: 10px 10px;
+}
+.add-group:hover{
+     background-color: #eef0f4;
+  cursor: pointer;
+}
+.plus-group {
+    color: #0064D1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.new-group {
+    color: #0064D1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.border {
+    border-bottom: 1px solid #b6bcc1;
+    padding-top: 20px;
+}
+
+.left-groups-joined {padding: 15px 10px 15px 20px;}
+
+.joined-all {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.joined-all span {
+    color: #080809;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tap-all {
+    color: #0064D1;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+.total-groups-profile{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding-left: 20px;
+    padding-bottom: 70px;
+}
+.photo-text{
+   display: flex;
+    gap: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.photo-text:hover{
+    background: #cbcfd6a6;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.groups-tittle{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.seen-time{
+    color: #65686C;
+    font-size: 13px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+.group-logo{
+    border-radius: 10px;
+    width: 48px;
+}

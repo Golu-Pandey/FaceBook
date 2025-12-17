@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Search_card_box{
+    position: absolute;
+    top: 0px;
+    left: -15px;
+    right: 0px;
+}
+
+header {
+    /* border-bottom: 4px solid rgb(234, 225, 225); */
+    /* box-shadow: 0 ye right me box shadow dega, 2px ye niche me dega, or 4px color jo hai o btata hai ki kitna me color failana hai uske hisab se utna px de do color*/
+    background-color: #ffffff;
+    padding: 5px 16px;
+    box-shadow: 0 2px 4px rgba(253, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.active {
+  padding: 0px 40px 15px 40px;
+  border-bottom: 3.50px solid #1b74e4;
+}
+.center-header a.active i {
+  color: #1b74e4;
+}
+
+
+.container {
+    max-width: 1500px;
+    margin: 0px auto;
+    width: 100%;
+    height: 100%;
+
+}
+
+.main-header {
+    display: flex;
+    align-items: center;
+    /* space between ka mtlb hai ye start or end ka box ya element ko chor kr baki sara element me same same space lata hai */
+    justify-content: space-between;
+}
+
+.left-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+}
+.facebook-logo-box{
+    cursor: pointer;
+}
+.facebook-logo{
+   width: 40px;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    background-color: #f0f2f5;
+    padding: 8px 12px;
+    border-radius: 999px;
+    gap: 10px;
+}
+
+.search-box i {
+    color: #797b7d;
+    
+}
+
+.search-link {
+    border-radius: 50%;
+    padding: 3px 0px;
+}
+
+.search-box input {
+    /* border: none - ye input me jo border aa rha tha use htane ke liye none use kiye hai*/
+    border: none;
+    background: #f0f2f5;
+    font-size: 14px;
+    outline: none;
+}
+
+.center-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+margin-right: 30px;
+}
+
+.navbar-Icon {
+  border-radius: 10px;
+  width: 120px;
+  text-align: center;
+  padding: 10px 13px;
+  transition: background-color 0.2s ease;
+  cursor: pointer;
+}
+
+/* Common icon styles */
+.navbar-Icon i {
+  font-size: 22px;
+  color: #65676b;
+}
+
+/* Hover effect for all wrapper classes */
+.navbar-Icon.home-page:hover,
+.navbar-Icon.video-page:hover,
+.navbar-Icon.market-place-page:hover,
+.navbar-Icon.groups-page:hover,
+.navbar-Icon.gaming-page:hover {
+  background-color: #f0f2f5;
+}
+
+/* Special case: groups-page icon border */
+.navbar-Icon.groups-page i {
+  border: 1px solid rgb(101, 100, 100);
+  border-radius: 99px;
+}
+
+/* Right Header Container */
+/* .right-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+} */
+
+/* Common style for all right header icons */
+/* .right-header .navbar-Icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: #e4e6eb;
+    border-radius: 50%;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+}
+
+.right-header .navbar-Icon i,
+.right-header .navbar-Icon img {
+    font-size: 22px;
+    color: #050505;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.right-header .navbar-Icon:hover {
+    background-color: #d8dadf;
+} */
+
+
+/* Right Header Container */
+.right-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Common style for all right header icons */
+.right-header .navbar-Icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: #e4e6eb;
+    border-radius: 50%;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+}
+
+/* Icons (i) */
+.right-header .navbar-Icon i {
+    font-size: 22px;
+    color: #050505;
+}
+
+/* Profile Image */
+.right-header .navbar-Icon img {
+    width: 40px;   /* thoda chhota karke container me fit kare */
+    border-radius: 50%;
+}
+
+/* Hover effect */
+.right-header .navbar-Icon:hover {
+    background-color: #d8dadf;
+}
+
+.component_parent{
+    z-index: 1001;
+    position: fixed;
+    top: 50px;
+    right: 12px;
+}
+
+/* HEADER-PAGE-END */

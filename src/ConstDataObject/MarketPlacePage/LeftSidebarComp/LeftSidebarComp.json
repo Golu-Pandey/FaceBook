@@ -1,0 +1,149 @@
+{
+  "leftSidebar": {
+    "topHeader": {
+      "headingSetting": {
+        "title": "Marketplace",
+        "settingLogo": {
+          "src": "/Image/MarketPlace/LeftSidebar_icon/Marketplace-setting_img.jpg",
+          "alt": "",
+          "link": ""
+        }
+      },
+      "searchBox": {
+        "iconClass": "fa-solid fa-magnifying-glass",
+        "inputPlaceholder": "Search Marketplace....."
+      }
+    },
+    "icons": [
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/Browse_All.png",
+        "alt": "",
+        "name": "Browse all",
+        "link": "",
+         "arrowClass": ""
+      },
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/Notification_icon.jpg",
+        "alt": "Notifications-logo",
+        "name": "Notifications",
+        "link": "",
+         "arrowClass": ""
+      },
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/inbox-img.png",
+        "alt": "Notifications-logo",
+        "name": "Inbox",
+        "link": "",
+         "arrowClass": ""
+      },
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/MarketPlace_Access_img.jpg",
+        "alt": "Notifications-logo",
+        "name": "Marketplace access",
+        "link": "",
+         "arrowClass": ""
+      },
+       {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/Buying_img.png",
+        "alt": "Notifications-logo",
+        "name": "Buying",
+        "link": "",
+        "arrowClass": "fa-solid fa-chevron-right"
+      },
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/Selling-img.png",
+        "alt": "Selling",
+        "name": "Selling",
+        "link": "",
+        "arrowClass": "fa-solid fa-chevron-right"
+      }
+    ],
+    "createMedia": {
+      "iconClass": "fa-solid fa-plus",
+      "text": "Create new listing",
+      "link": ""
+    },
+    "location": {
+      "title": "Location",
+      "address": "Bhabua . Within 65 km"
+    },
+    "categories": [
+      {
+        "iconType": "fa-solid fa-car",
+        "name": "Vehicles"
+      },
+      {
+        "iconType": "fa-solid fa-house-chimney-user",
+        "name": "Property for rent"
+      },
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/Classified_img.png",
+        "name": "Classifieds"
+      },
+      {
+        "iconType": "fa-solid fa-shirt",
+        "name": "Clothing"
+      },
+      {
+        "iconType": "fa-solid fa-mobile-screen-button",
+        "name": "Electronics"
+      },
+      {
+        "iconType": "fa-solid fa-video",
+        "name": "Entertainment"
+      },
+      {
+        "iconType": "fa-solid fa-heart",
+        "name": "Family"
+      },
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/Selling-img.png",
+        "name": "Free stuff"
+      },
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/Garden_and_Outdoors_img.jpg",
+        "name": "Garden and outdoors"
+      },
+      {
+        "iconType": "fa-sharp-duotone fa-solid fa-pencil",
+        "name": "Hobbies"
+      },
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/Home-Goods_img.jpg",
+        "name": "Home goods"
+      },
+      {
+        "iconType": "fa-sharp fa-solid fa-wrench",
+        "name": "Home improvement supplies"
+      },
+      {
+        "iconType": "fa-solid fa-guitar",
+        "name": "Musical instruments"
+      },
+      {
+        "imgSrc": "/Image/MarketPlace/LeftSidebar_icon/Classified_img.png",
+        "name": "Office supplies"
+      },
+      {
+        "iconType": "fa-solid fa-cloud-rain",
+        "name": "Pet supplies"
+      },
+      {
+        "iconType": "fa-solid fa-house-chimney-user",
+        "name": "Property for sale"
+      },
+      {
+        "iconType": "fa-solid fa-person-running",
+        "name": "Sporting goods"
+      },
+      {
+        "iconType": "fa-solid fa-gamepad",
+        "name": "Toys and games"
+      },
+      {
+        "iconType": "fa-solid fa-people-group",
+        "name": "Buy-and-sell grups"
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "group-left-page": {
+    "group-content-left": {
+      "top-stiicky": {
+        "groups-setting-icon": {
+          "head-line": "Groups",
+          "setting-logo-group": "/Image/Video/LeftSidebar_Video_Post/Setting.jpg"
+        },
+        "search-box-left": {
+          "search-icon": "fa-solid fa-magnifying-glass",
+          "placeholder": "Search groups"
+        }
+      },
+      "left-menu": [
+        {
+          "left-icon-feed": { 
+            "icon-feed": "/Image/GroupPage/LeftSidebar/Your-feed.png",
+            "logo-icon-name": "Your feed"
+          }
+        },
+        {
+          "left-icon-discover": {
+            "compass-icon": "fa-solid fa-compass",
+            "logo-icon-name": "Discover"
+          }
+        },
+        {
+          "left-icon-groups": {
+            "pepole-groups": "fa-solid fa-people-group",
+            "logo-icon-name": "Your groups"
+          }
+        },
+        {
+          "add-group": {
+            "plus-group": "fa-solid fa-plus",
+            "new-group": "Crete New Group"
+          }
+        }
+      ],
+      "border": true,
+      "left-groups-joined": {
+        "joined-all": {
+          "title": "Groups you've joined",
+          "tap-all": "See all"
+        }
+      },
+      "total-groups-profile": [
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Taja_Khabar_img.jpg",
+            "title": "ताज़ा ख़बर 2025",
+            "seen-time": "Last active about an hour ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Sang_Sadhna_Samarpan_img.jpg",
+            "title": "संघ साधना और समर्पण",
+            "seen-time": "Last active 2 hours ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Suvichar_img.jpg",
+            "title": "सुविचार",
+            "seen-time": "Last active 3 hours ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/GK_for_Competitive_Exams_img.jpg",
+            "title": "GK for Competitive Exams",
+            "seen-time": "Last active about an hour ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Kamakhya_Family_img.jpg",
+            "title": "कामख्या परिवार कामாக்கिय குடும்பம் Kamakhya Family",
+            "seen-time": "Last active 3 hours ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Mission_UPSC_img.jpg",
+            "title": "Mission UPSC",
+            "seen-time": "Last active 3 hours ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Apna_Campus_img.jpg",
+            "title": "\" आपन कैम्पस \"",
+            "seen-time": "Last active 40 minute ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Brahman_Smaj_Ekta_Kalyan_img.jpg",
+            "title": "ब्राह्मण समाज एकता एवं कल्याण मिशन",
+            "seen-time": "Last active 9 hours ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Aao_Milkar_Kare_Padhai_img.jpg",
+            "title": "आओ मिलकर करे पढ़ाई ( RAS, PSI, PATWAR, POLICE Etc)",
+            "seen-time": "Last active a day ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Pagal_Dil_img.jpg",
+            "title": "Pagal Dil",
+            "seen-time": "Last active 5 days ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/School_Life_vs_College_Life_img.jpg",
+            "title": "School Life V/s College Life",
+            "seen-time": "Last active 1 hours ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Boxing_School_img.jpg",
+            "title": "Boxing School",
+            "seen-time": "Last active 6 hours ago"
+          }
+        },
+        {
+          "photo-text": {
+            "group-logo": "/Image/GroupPage/LeftSidebar/Maths_reasoning_group_img.jpg",
+            "title": "Maths & reasoning group",
+            "seen-time": "Last active 34 weeks ago"
+          }
+        }
+      ]
+    }
+  }
+}

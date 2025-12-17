@@ -1,0 +1,75 @@
+[
+  {
+    "user": {
+      "userDetails": {
+        "userId": 13,
+        "userName": "Jayant Limbachiya",
+        "storyActive": true,
+        "statusActive": true,
+        "userProfilePic": "/Image/HomePage/Post/Jayant_Profile_img.jpg"
+      },
+      "userChatDetails": [
+        {
+          "userType": "SENDER",
+          "userMessegeType": "IMAGE",
+          "userMessege": "/Image/HomePage/Post/Ravi_Raj_Profle_img.jpg"
+        },
+        {
+          "userType": " RECIEVER",
+          "userMessegeType": "TEXT",
+          "userMessege": "Hai kon ye bhaiii.... tere relative to nhi hai n......... btaa"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "userDetails": {
+        "userId": 5,
+        "userName": "Sumit Singh",
+        "userProfilePic": "/Image/HomePage/Post/Sumit_Profile_img.jpg",
+        "storyActive": true,
+        "statusActive": false
+      },
+      "userChatDetails": [
+        {
+          "userType": "SENDER",
+          "userMessegeType": "IMAGE",
+          "userMessege": "/Image/HomePage/Post/Ravi_Raj_Profle_img.jpg"
+        },
+        {
+          "userType": "RECIEVER",
+          "userMessegeType": "TEXT",
+          "userMessege": "Bdiya huu bhaii, tuu btaa kaise hai kya chal hai zindgi me,,,, aur sb suna ghar pe kaise hai sb ?"
+        },
+        {
+          "userType": "SENDER",
+          "userMessegeType": "IMAGE",
+          "userMessege": "/Image/HomePage/Post/Ravi_Raj_Profle_img.jpg"
+        },
+        {
+          "userType": "RECIEVER",
+          "userMessegeType": "TEXT",
+          "userMessege": "aree yarr ye kya hai.... kuchh bhhii bheta rahta hai tuuu...."
+        },
+        {
+          "userType": "SENDER",
+          "userMessegeType": "IMAGE",
+          "userMessege": "/Image/HomePage/Post/Ravi_Raj_Profle_img.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "userDetails": {
+        "userId": 10,
+        "userName": "Ravi Raj",
+        "userProfilePic": "/Image/HomePage/Post/Ravi_Raj_Profle_img.jpg",
+        "storyActive": false,
+        "statusActive": true
+      },
+      "userChatDetails": []
+    }
+  }
+]

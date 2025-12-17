@@ -1,0 +1,24 @@
+[
+  { "userId":1,"name": "Golu Pandey", "icon": "/Image/HomePage/LeftSidebar/Golu_Profile_img.jpg"  },
+  { "userId":-1,"name": "Meta AI", "icon": "/Image/HomePage/LeftSidebar/Meta_Ai_img.png" },
+  { "userId":-1,"name": "Friends", "icon": "/Image/HomePage/LeftSidebar/Friends_img.png" },
+  { "userId":-1,"name": "Professional dashboard", "icon": "/Image/HomePage/LeftSidebar/Professional_Dashboard_img.png" },
+  { "userId":-1,"name": "Feeds", "icon": "/Image/HomePage/LeftSidebar/Feeds_img.png" },
+  { "userId":-1,"name": "Groups", "icon": "/Image/HomePage/LeftSidebar/Groups_img.png", "path": "/group" },
+  { "userId":-1,"name": "Marketplace", "icon": "/Image/HomePage/LeftSidebar/Market_Place_img.jpg", "path": "/marketplace" },
+  { "userId":-1,"name": "Video", "icon": "/Image/HomePage/LeftSidebar/Video_img.jpg", "path": "/video" },
+  { "userId":-1,"name": "Birthdays", "icon": "/Image/HomePage/LeftSidebar/Birthday_img.png" },
+  { "userId":-1,"name": "Chat with AIs", "icon": "/Image/HomePage/LeftSidebar/Chat_With_AIs_img.png" },
+  { "userId":-1,"name": "Events", "icon": "/Image/HomePage/LeftSidebar/Events_img.jpg" },
+  { "userId":-1,"name": "Gaming video", "icon": "/Image/HomePage/LeftSidebar/Gaming_Video_img.png" },
+  { "userId":-1,"name": "Memories", "icon": "/Image/HomePage/LeftSidebar/Memories_img.jpg" },
+  { "userId":-1,"name": "Messenger", "icon": "/Image/HomePage/LeftSidebar/Messenger_img.webp", "path": "/messenger" },
+  { "userId":-1,"name": "Messenger Kids", "icon": "/Image/HomePage/LeftSidebar/Messenger_Kids_img.png" },
+  { "userId":-1,"name": "Orders and payments", "icon": "/Image/HomePage/LeftSidebar/Orders_And_Payments_img.png" },
+  { "userId":-1,"name": "Pages", "icon": "/Image/HomePage/LeftSidebar/Pages_img.png" },
+  { "userId":-1,"name": "Play games", "icon": "/Image/HomePage/LeftSidebar/Play_Games_img.jpg", "path": "/gaming"  },
+  { "userId":-1,"name": "Recent ad activity", "icon": "/Image/HomePage/LeftSidebar/Recent_Ad_Activity_img.png" },
+  { "userId":-1,"name": "Reels", "icon": "/Image/HomePage/LeftSidebar/Reels_img.jpg" },
+  { "userId":-1,"name": "Saved", "icon": "/Image/HomePage/LeftSidebar/Saved_img.png" }
+  
+]

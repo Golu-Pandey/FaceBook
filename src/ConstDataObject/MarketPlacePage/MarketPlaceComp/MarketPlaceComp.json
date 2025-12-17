@@ -1,0 +1,192 @@
+{
+  "Top_Part": {
+    "heading": "Today's picks",
+    "location_logo_icon": "fa-solid fa-location-dot",
+    "right_location_name": "Bhabua · 65 km",
+    "data": [
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Royal_EnField.jpg",
+        "price": "₹225,000",
+        "name": "Royal Enfield Interceptor 650",
+        "priceValue" : 225000,
+        "location_city_state": "Sasaram, BR"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/R15_V3.jpg",
+        "price": "₹98,000",
+        "name": "R15 v3",
+        "priceValue" : 98000,
+        "location_city_state": "Sasaram, BR"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Jeep.jpg",
+        "price": "₹365,000",
+        "name": "Willy jeep Di off Road types New one month Rim 15 Mileage 18 Tax one",
+        "priceValue" : 365000,
+        "location_city_state": "Sasaram, BR"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Tractore_Sonalika.jpg",
+        "price": "₹350,000",
+        "name": "Tractor sonalika di 35",
+        "priceValue" : 350000,
+        "location_city_state": "Mughalsarai, up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Bluetooth_Speakers.jpg",
+        "price": "₹380",
+        "name": "Bluetooth Speakers",
+        "priceValue" : 380,
+        "location_city_state": "Varanasi Sub District, up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Tshirt_for_black_casual_tshirt.jpg",
+        "price": "₹201",
+        "name": "Tshirt for black casual tshirt",
+        "priceValue" :201 ,
+        "location_city_state": "Lalganj, up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Pretty_white_top.jpg",
+        "price": "₹210",
+        "name": "Pretty white top",
+        "priceValue" : 210,
+        "location_city_state": "Mirzapur Sub-District, up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Mil_2024.jpg",
+        "price": "₹380",
+        "name": "Mil.2024",
+        "priceValue" : 380,
+        "location_city_state": "Varanasi, up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Independence_Day_Cloths_1_to_5_Year.jpg",
+        "price": "₹380",
+        "name": "Independence day special 1 se 15 year tak ke liye",
+        "priceValue" : 380,
+        "location_city_state": "Zamania, up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/iphone_15_pro_max.jpg",
+        "price": "₹91,000",
+        "name": "iphone 15 pro max",
+        "priceValue" : 91000,
+        "location_city_state": "Handia, Up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/T500_Ultra_Smart_WatchHJHA16.jpg",
+        "price": "₹96,000",
+        "name": "T500 Ultra Smart WatchHJHA16",
+        "priceValue" : 96000,
+        "location_city_state": "Prayagraj, Up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/iphone_15plus.jpg",
+        "price": "₹70,000",
+        "name": "iphone 15plus",
+        "priceValue" : 70000,
+        "location_city_state": "Mehnagar, Up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/House_Nirmaan_Varansi.jpg",
+        "price": "₹1850",
+        "name": "Ghar Nirmaan Varanasi city me ache engeneer ke dekh rekh me",
+        "priceValue" : 1850,
+        "location_city_state": "Varanasi, Up"
+      },
+       {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Pickup.jpg",
+        "price": "₹215,000",
+        "name": "Pickup available Good Condition 2019 Model",
+        "priceValue" : 215000,
+        "location_city_state": "Lanka, Up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Scorpio.jpg",
+        "price": "₹300,000",
+        "name": "Scorpio",
+        "priceValue" : 300000,
+        "location_city_state": "Mehnagar, Up"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Jwelary_7500.jpg",
+        "price": "₹7500",
+        "name": "Jwelary",
+        "priceValue" : 7500,
+        "location_city_state": "Azamgarh, Up"
+      }
+    ]
+  },
+  "Middale_part": {
+    "leftHeading": "Sponsored",
+    "middleHeading": "Mobile phones",
+    "data": [
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Sponsored_Online_Job_Opportunities_ Work_on.jpg",
+        "price": "",
+        "name": "Hallie Mertine",
+        "priceValue" : 0,
+        "location_city_state": "",
+        "description": "Online Job Opportunities / Work on Your Own Time"
+      },
+       
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Sponsored-Iphone_3500.jpg",
+        "price": "₹3,650",
+        "name": "New mobile",
+        "priceValue" : 3650,
+        "location_city_state": "Saraiya, BR"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Sponsored-Iphone_18650.jpg",
+        "price": "₹18,650",
+        "name": "Iphone 12pro max",
+        "priceValue" : 18650,
+        "location_city_state": "Varanasi, UP"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/Sponsored-Redmi_A_3650.jpg",
+        "price": "₹3,655",
+        "name": "Redmi 7A",
+        "priceValue" : 3655,
+        "location_city_state": "Varanasi, UP"
+      }
+    ]
+  },
+  "Bottom_part": {
+    "leftHeading": "Sponsored",
+    "middleHeading": "Jwellery",
+    "data": [
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/sponsored1.jpeg",
+        "price": "",
+        "name": "Turing Community",
+        "priceValue" : 0,
+        "location_city_state": "",
+        "description": "Earn weekly rewards for learning With AI"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/sponsored1_Trendy_Mangalsutra.jpg",
+        "price": "₹13,150",
+        "name": "Trendy Mangalsutra",
+        "priceValue" : 13150,
+        "location_city_state": "Jaunpur, UP"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/sponsored1_Haar_Jwelary.jpg",
+        "price": "₹18,650",
+        "name": "GRAND LOOK GOLD PLATED NECKLACE AND EARRING SET",
+        "priceValue" : 18650,
+        "location_city_state": "Varanasi, UP"
+      },
+      {
+        "material_photo": "/Image/MarketPlace/MarketPlace_Center_Image/sponsored1_Payal_for_women.jpg",
+        "price": "₹3,650",
+        "name": "Payal for women",
+        "priceValue" : 3650,
+        "location_city_state": "Zamania, UP"
+      }
+    ]
+  }
+}

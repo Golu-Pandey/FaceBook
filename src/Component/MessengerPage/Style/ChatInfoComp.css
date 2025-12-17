@@ -1,0 +1,218 @@
+.messenger-page-right {
+    box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1);
+    width: 23.5%;
+    background: #fff;
+    position: fixed;
+    margin-top: 14px;
+    right: 15px;
+    height: calc(100vh - 97px);
+    overflow-y: auto;
+    padding-left: 10px;
+    overscroll-behavior: contain;
+    border-radius: 10px;
+}
+
+.right-logo- {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 17px;
+}
+
+.right-logo- img {
+    width: 80px;
+    border-radius: 50%;
+}
+
+.left-top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.left-top span {
+    font-weight: 500;
+    color: #080809;
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.end-to {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.encrypted {
+    font-size: 13px;
+    font-weight: 500;
+    color: #080809;
+    /* font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif; */
+    background-color: #e2e5e9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 2px 11px;
+    border-radius: 20px;
+    margin: 10px 0px;
+}
+.encrypted:hover{
+ background-color: #dbdbe2;
+ cursor: pointer;
+}
+.Messenger_right_Page_center_icon_name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 12px;
+}
+
+.Messenger_right_Page_profile{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.Messenger_right_Page_bell{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.Messenger_right_Page_search{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.Messenger_right_Page_Icon_Name{
+     color: #080809;
+    font-size: 13px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+.Messenger_right_Page_icon{
+    background-color: rgb(234, 230, 230);
+    border-radius: 50%;
+    padding: 8px 10px;
+}
+.Messenger_right_Page_icon i {
+    color: #080809;
+    font-size: 18px;
+}
+.Messenger_right_Page_profile_icon{
+    background-color: rgb(232, 229, 229);
+    border-radius: 50%;
+    padding: 6px 6px 3px 7px;
+    cursor: pointer;
+}
+
+
+.Messenger_right_Page_profile_icon:hover,
+.Messenger_right_Page_icon:hover {
+    cursor: pointer;
+    background-color: #dbdbe2;
+}
+
+.right-page-total-content-icon{
+    margin-top: 17px;
+}
+
+
+summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    padding: 12px 10px;
+    color: #080809;
+    border-radius: 8px;
+}
+summary:hover{
+     cursor: pointer;
+    background-color: #dbdbe2;
+}
+summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Arrow Icon */
+summary::after {
+    content: ">";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    transition: transform 0.3s ease;
+    font-size: 12px;
+}
+
+details[open] summary::after {
+    transform: rotate(180deg);
+}
+
+.Privacy-icon_rotate i{
+    font-size: 18px;
+    color: #080809;
+    transform: rotate(45deg)
+}
+.Privacy-icon-total{
+    padding: 10px 10px;
+}
+.Privacy-icon-total i{
+    font-size: 18px;
+    color: #080809;
+}
+.Privacy-icon-total:hover{
+     cursor: pointer;
+    background-color: #dbdbe2;
+}
+
+
+.Total_Privacy_and_Support_Icon_name{
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.Customize_chat{
+     display: flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    padding: 10px 8px;
+}
+.change_color_customise_chat_icon{
+    color: #622fd1;
+    font-size: 18px;
+}
+.Customize_chat:hover{
+     cursor: pointer;
+    background-color: #dbdbe2;
+}
+.Privacy-icon-total{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+}
+.Read_Receipts{
+    display: flex;
+    flex-direction: column;
+}
+.Read_Receipts_text{
+     font-size: 12px;
+    color: gray;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+.Privacy_Name{
+    color: #080809;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+.Restrict_icon{
+    width: 20px;
+    height: 19px;
+}

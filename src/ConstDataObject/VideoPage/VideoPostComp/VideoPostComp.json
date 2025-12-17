@@ -1,0 +1,238 @@
+{
+  "videoPosts": [
+    {
+      "postLogo": {
+        "imgSrc": "/Image/Video/Center-Video/Somnath_Profile_img.jpg",
+        "alt": "Kaimur-news-logo",
+        "link": ""
+      },
+      "postInfo": {
+        "name": "SomNath Mukharjee",
+        "followLink": "",
+        "timeDate": "29 June",
+        "globalIconLink": "",
+        "menuIcon": "fa-solid fa-ellipsis"
+      },
+      "headline": {
+        "picId": 1,
+        "isHidePost": false,
+        "isLikedByMe": false,
+        "text": "Tu Saath Hai Toh (Full Audio): Mithoon, Vishal Mishra, Vishal Pandey, Sana Makbul, Sayeed Quadri.",
+        "videoSrc": "/Image/Video/Center-Video/video-page-pos-video.2.mp4",
+        "videoClass": "post-picture-video"
+      },
+      "actions": {
+        "like": {
+          "icon": "fa-regular fa-thumbs-up",
+          "text": "Like",
+          "iconSrc": "/Image/HomePage/Post/like-emoji_img.svg",
+          "count": "174k others"
+        },
+        "comment": {
+          "iconSrc": "/Image/HomePage/Post/comment_img.jpg",
+          "text": "439 comments"
+        },
+        "share": {
+          "iconSrc": "/Image/HomePage/Post/share-logo_img.jpg",
+          "text": "Share"
+        },
+        "views": "11M"
+      }
+    },
+    {
+      "postLogo": {
+        "imgSrc": "/Image/Video/Center-Video/Aashutosh_Profile_img.jpg",
+        "alt": "Kaimur-news-logo",
+        "link": ""
+      },
+      "postInfo": {
+        "name": "Aashutosh Pandey",
+        "followLink": "",
+        "timeDate": "9 August at 17:49",
+        "globalIconLink": "",
+        "menuIcon": "fa-solid fa-ellipsis"
+      },
+      "headline": {
+        "picId": 2,
+        "isHidePost": false,
+        "isLikedByMe": false,
+        "text": "गूजता रहे सदियों तक एक ऐसा अंजाम लिख देंगे खून के एक एक कतरे से जय श्री राम लिख देंगे....",
+        "videoSrc": "/Image/Video/Center-Video/video-page-pos-video.1.mp4",
+        "videoClass": "post-picture-video"
+      },
+      "actions": {
+        "like": {
+          "icon": "fa-regular fa-thumbs-up",
+          "text": "Like",
+          "iconSrc": "/Image/HomePage/Post/like-emoji_img.svg",
+          "count": "Rahul Rock, Laltu Yadav and 337K others"
+        },
+        "comment": {
+          "iconSrc": "/Image/HomePage/Post/comment_img.jpg",
+          "text": "24K comments"
+        },
+        "share": {
+          "iconSrc": "/Image/HomePage/Post/share-logo_img.jpg",
+          "text": "Share"
+        },
+        "views": "11M"
+      }
+    },
+    {
+      "postLogo": {
+        "imgSrc": "/Image/Video/Center-Video/Vishnu_Profile_img.jpg",
+        "alt": "Kaimur-news-logo",
+        "link": ""
+      },
+      "postInfo": {
+        "name": "Vishnu Keshri",
+        "followLink": "",
+        "timeDate": "9 August at 17:49",
+        "globalIconLink": "",
+        "menuIcon": "fa-solid fa-ellipsis"
+      },
+      "headline": {
+        "picId": 3,
+        "isHidePost": false,
+        "isLikedByMe": false,
+        "text": "\"मज़ा आ गया गाना सुनकर, लाजवाब 👌\" \"तेरी आवाज़ = सुकून 😌\" \"गज़ब vibes हैं तेरे गाने में ✨\".",
+        "videoSrc": "/Image/Video/Center-Video/video-page-pos-video.mp4",
+        "videoClass": "post-picture-video"
+      },
+      "actions": {
+        "like": {
+          "icon": "fa-regular fa-thumbs-up",
+          "text": "Like",
+          "iconSrc": "/Image/HomePage/Post/like-emoji_img.svg",
+          "count": " Vinay kumar, Laltu Yadav and 737K others"
+        },
+        "comment": {
+          "iconSrc": "/Image/HomePage/Post/comment_img.jpg",
+          "text": "24K comments"
+        },
+        "share": {
+          "iconSrc": "/Image/HomePage/Post/share-logo_img.jpg",
+          "text": "Share"
+        },
+        "views": "11M"
+      }
+    },
+    {
+      "postLogo": {
+        "imgSrc": "/Image/Video/Center-Video/Sumit_Profile_img.jpg",
+        "alt": "Kaimur-news-logo",
+        "link": ""
+      },
+      "postInfo": {
+        "name": "Sumit Singh",
+        "followLink": "",
+        "timeDate": "9 August at 17:49",
+        "globalIconLink": "",
+        "menuIcon": "fa-solid fa-ellipsis"
+      },
+      "headline": {
+        "picId": 4,
+        "isHidePost": false,
+        "isLikedByMe": false,
+        "text": "Naam Chale (Official Video) Vikram Sarkar | New Haryanvi Songs Haryanavi 2025 |Latest Haryanvi Songs",
+        "videoSrc": "/Image/Video/Center-Video/video-page-pos-video.4.mp4",
+        "videoClass": "post-picture-video"
+      },
+      "actions": {
+        "like": {
+          "icon": "fa-regular fa-thumbs-up",
+          "text": "Like",
+          "iconSrc": "/Image/HomePage/Post/like-emoji_img.svg",
+          "count": " Uttam Patel, Laltu Yadav and 537K others"
+        },
+        "comment": {
+          "iconSrc": "/Image/HomePage/Post/comment_img.jpg",
+          "text": "24K comments"
+        },
+        "share": {
+          "iconSrc": "/Image/HomePage/Post/share-logo_img.jpg",
+          "text": "Share"
+        },
+        "views": "11M"
+      }
+    },
+    {
+      "postLogo": {
+        "imgSrc": "/Image/HomePage/Post/Uttam_Profile_img.jpg",
+        "alt": "Kaimur-news-logo",
+        "link": ""
+      },
+      "postInfo": {
+        "name": "Uttam Patel",
+        "followLink": "",
+        "timeDate": "9 August at 17:49",
+        "globalIconLink": "",
+        "menuIcon": "fa-solid fa-ellipsis"
+      },
+      "headline": {
+        "picId": 5,
+        "isHidePost": false,
+        "isLikedByMe": false,
+        "text": "श्रीमन् नारायण नारायण नारायण, भजमन नारायण नारायण नारायण 🌼❤ जय जय सुरनायक जन सुखदायक प्रनतपाल भगवंताः 👆🏻 गो द्विज हितकारी जय असुरारी सिधुंसुता प्रिय कंता 🤲 #jayjaysurnayak #shreekrishna ",
+        "videoSrc": "/Image/Video/Center-Video/video-page-pos-video.5.mp4",
+        "videoClass": "post-picture-video"
+      },
+      "actions": {
+        "like": {
+          "icon": "fa-regular fa-thumbs-up",
+          "text": "Like",
+          "iconSrc": "/Image/HomePage/Post/like-emoji_img.svg",
+          "count": "Surya Rock, Laltu Yadav and 337K others"
+        },
+        "comment": {
+          "iconSrc": "/Image/HomePage/Post/comment_img.jpg",
+          "text": "24K comments"
+        },
+        "share": {
+          "iconSrc": "/Image/HomePage/Post/share-logo_img.jpg",
+          "text": "Share"
+        },
+        "views": "11M"
+      }
+    },
+    {
+      "postLogo": {
+        "imgSrc": "/Image/Video/Center-Video/Aashutosh_Profile_img.jpg",
+        "alt": "Kaimur-news-logo",
+        "link": ""
+      },
+      "postInfo": {
+        "name": "Aashutosh Pandey",
+        "followLink": "",
+        "timeDate": "9 August at 17:49",
+        "globalIconLink": "",
+        "menuIcon": "fa-solid fa-ellipsis"
+      },
+      "headline": {
+        "picId": 6,
+        "isHidePost": false,
+        "isLikedByMe": false,
+        "text": "🔱🌸✨ अयि गिरिनन्दिनि नन्दितमेदिनि विश्वविनोदिनि नन्दिनुते । 🌺 गिरिवरविन्ध्यशिरोधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ॥ 🔥 भगवति हे शितिकण्ठकुटुम्बिनि ",
+        "videoSrc": "/Image/Video/Center-Video/video-page-pos-video.3.mp4",
+        "videoClass": "post-picture-video"
+      },
+      "actions": {
+        "like": {
+          "icon": "fa-regular fa-thumbs-up",
+          "text": "Like",
+          "iconSrc": "/Image/HomePage/Post/like-emoji_img.svg",
+          "count": " Nalini Pandey, Raju Yadav and 337K others"
+        },
+        "comment": {
+          "iconSrc": "/Image/HomePage/Post/comment_img.jpg",
+          "text": "24K comments"
+        },
+        "share": {
+          "iconSrc": "/Image/HomePage/Post/share-logo_img.jpg",
+          "text": "Share"
+        },
+        "views": "11M"
+      }
+    }
+  ]
+}

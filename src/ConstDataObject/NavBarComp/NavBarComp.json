@@ -1,0 +1,53 @@
+{
+  "centerHeader": [
+    {
+      "to": "/",
+      "iconClass": "fa-solid fa-house",
+      "wrapperClass": "home-page",
+      "end": true
+    },
+    {
+      "to": "/video",
+      "iconClass": "fas fa-tv",
+      "wrapperClass": "video-page"
+    },
+    {
+      "to": "/marketplace",
+      "iconClass": "fa-solid fa-shop",
+      "wrapperClass": "market-place-page"
+    },
+    {
+      "to": "/group",
+      "iconClass": "fas fa-users",
+      "wrapperClass": "groups-page"
+    },
+    {
+      "to": "/gaming",
+      "iconClass": "fa-solid fa-gamepad",
+      "wrapperClass": "gaming-page"
+    }
+  ],
+  
+  "rightHeader": [
+    {
+      "to": "",
+      "wrapperClass": "menu-page",
+      "iconClass": "fa-solid fa-table-cells"
+    },
+    {
+      "to": "/messenger",
+      "wrapperClass": "messenger-page",
+      "iconClass": "fa-brands fa-facebook-messenger"
+    },
+    {
+      "to": "",
+      "wrapperClass": "notifications-page",
+      "iconClass": "fa-solid fa-bell"
+    },
+    {
+      "to": "",
+      "wrapperClass": "account-page",
+      "imgSrc": "/Image/HomePage/NavBar/profile.jpg"
+    }
+  ]
+}

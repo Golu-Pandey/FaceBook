@@ -1,0 +1,257 @@
+.left-page-marketplace {
+    box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1);
+    width: 336px;
+    background: #fff;
+    position: fixed;
+    top: 50px;
+    left: 0;
+    height: 100vh;
+    overflow-y: auto;
+    padding-left: 20px;
+     overscroll-behavior: contain;
+}
+.sidebar_item_2{
+  display: flex;
+  gap: 7px;
+  padding: 3px 0px 6px 0px;
+  text-decoration: none;
+  color: #1877F2;
+  font-size: 16px;
+  font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  border-radius: 8px;
+}
+.sidebar_item_2:hover{
+   background-color: #e4e6eb; 
+}
+.sidebar_item_2 i{
+   color: #1877F2;
+  font-size: 16px;
+  border-radius: 50%;
+  background-color: #e4e6eb;
+  padding: 9px 10px;
+  
+}
+.top-header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background: #fff;
+    padding: 10px 15px 10px 0px;
+    width: 100%;
+    z-index: 2;
+}
+
+.hading-setting {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hading-setting h1 {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 5px;
+    padding-left: 4px;
+}
+
+.searchBoxMarket_and_BasedOn{
+    /* border: 1px solid red; */
+    width: 100%;
+    display: flex;
+    gap: 2px;
+}
+
+.search-box-market {
+    display: flex;
+    align-items: center;
+    background-color: #f0f2f5;
+    padding: 4px 12px;
+    border-radius: 9px;
+    gap: 0px;
+    width: 80%;
+}
+
+.setting-logo {
+    width: 36px;
+    border-radius: 50%;
+}
+.setting-logo:hover{
+    opacity: 0.80;
+    cursor: pointer;
+}
+.market-seach {
+    border: none;
+    background: #f0f2f5;
+    font-size: 15px;
+    outline: none;
+}
+
+.dropdown-wrapper {
+  width: 60%;
+  /* margin: 20px; */
+}
+
+.custom-select {
+  width: 100%;
+  padding: 10px 0px;
+  font-size: 13px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  outline: none;
+  cursor: pointer;
+  background-color: #fff;
+  transition: border 0.3s, box-shadow 0.3s;
+}
+
+.custom-select:focus {
+  border-color: #1877f2;
+  box-shadow: 0 0 0 2px rgba(24, 119, 242, 0.2);
+}
+
+.custom-select option {
+  font-size: 12px;
+}
+
+
+.browse {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 5px;
+}
+
+.market-browser {
+    width: 32px;
+    border-radius: 50%;
+    background-color: rgb(180, 171, 171);
+    border: 4px solid rgb(180, 171, 171);
+}
+
+.icon-img :hover {
+    border-radius: 10px;
+    background: #e2e5e9a6;
+    cursor: pointer;
+}
+
+.icon-img {
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+
+
+.arrow{
+    position: absolute;
+    right: 10px;
+}
+
+.arrow i {
+    color: #828486a6;
+    font-size: 19px;
+}
+
+.creat-new-listing {
+    border-radius: 7px;
+    color: #1877F2;
+    background-color: #eaedf4;
+    padding: 9px;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 10px;
+
+}
+
+.creat-new-listing:hover {
+    border-radius: 10px;
+    background: #d8d9dca6;
+    cursor: pointer;
+}
+
+.bottom-content-add i {
+    font-size: 17px;
+    color: #1877F2;
+}
+
+.create-media {
+    border-bottom: 1px solid #babec3;
+    padding-bottom: 10px;
+}
+
+.heding-loaction {
+    padding-top: 13px;
+    font-size: 18px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.location-address {
+    padding-bottom: 7px;
+    color: #1877F2;
+    padding-top: 7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.location-address:hover {
+
+    border-radius: 10px;
+    background: #e2e5e9a6;
+    cursor: pointer;
+}
+
+.location-name {
+    border-bottom: 1px solid #babec3;
+    padding-bottom: 13px;
+}
+
+.name-heding {
+    font-size: 17px;
+    font-weight: 500;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.categories {
+    margin-top: 10px;
+}
+
+.categories-icon-name {
+    display: flex;
+    align-items: center;
+   padding: 7px 0px 7px 0px;
+}
+
+.categories-icon {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding-bottom: 80px;
+}
+
+.categories-icon-name:hover {
+    border-radius: 10px;
+    background: #e2e5e9a6;
+    cursor: pointer;
+}
+
+.vehicle-icon i {
+   padding: 5px 3px;
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    color: black;
+    background-color: rgb(208 199 199);
+    border: 3px solid rgb(213 204 204);
+    font-size: 20px;
+
+}
+
+.icon-name {
+    padding-bottom: 8px;
+    font-size: 16px;
+    color: black;
+    padding-left: 12px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* LEFT-Page-Marketplace - END */

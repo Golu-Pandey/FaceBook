@@ -1,0 +1,230 @@
+{
+  "group-right-page": {
+    "grou-text-style2": "Recent activity",
+    "group-posts": [
+      {
+        "group-post-1": {
+          "right-content": {
+            "right-content-1": "/Image/GroupPage/LeftSidebar/GK_for_Competitive_Exams_img.jpg",
+            "group-post-logo": "/Image/HomePage/Post/Sumit_Profile_img.jpg"
+          },
+          "post-group-logo-end": {
+            "grou-text-style": "GK for Competitive Exams",
+            "grou-text-style1-name": "Sumit Singh",
+            "grou-text-style3": {
+              "icon": "/Image/GroupPage/Center_Post/Header-medal_img.png",
+              "text": "Top contributor"
+            },
+            "grou-text-style1-time": "19h",
+            "grou-text-style4": "fa-solid fa-earth-americas"
+          },
+          "group-menu": "/Image/GroupPage/Center_Post/menu-3.svg",
+          "detail-post": "🔥 शुक्र ग्रह का हैरान कर देने वाला सच! 🌌🪐 🧠 रोचक तथ्य: क्या आप जानते हैं? शुक्र ग्रह (Venus) पर एक दिन, यानी अपने अक्ष पर घूमने का समय, पृथ्वी के एक साल से भी लंबा होता है! 😲 मतलब वहाँ एक दिन 243 पृथ्वी दिनों के बराबर होता है, जबकि एक साल सिर्फ 225 पृथ्वी दिनों में पूरा हो जाता है। 🚀 🔔 अद्भुत अंतरिक्ष फैक्ट्स के लिए – Follow Rathva Dinesh #RathvaFacts #SpaceFacts #VenusFacts #ScienceKnowledge #DidYouKnow #AstronomyFacts #UniverseSecrets",
+          "postType": "IMAGE",
+          "isHidePost": false,
+          "isLikedByMe": false,
+          "likedCount": 0,
+          "picId": 1,
+          "post-image-group": "/Image/GroupPage/Center_Post/post_GK.jpg",
+          "like-comment-logo-box": {
+            "count-number-like-comment-share": {
+              "like-cout-4": {
+                "group-blue-like": "/Image/GroupPage/Center_Post/Like_emoji.svg",
+                "count": 50
+              },
+              "comment-count-5": {
+                "count": 29,
+                "text": "comments"
+              },
+              "share-count-6": {
+                "count": 12,
+                "text": "shares"
+              }
+            },
+            "group-bottom-content": [
+              "fa-regular fa-thumbs-up",
+              "/Image/GroupPage/Center_Post/Comment_img.jpg",
+              "/Image/GroupPage/Center_Post/Share-img.jpg"
+            ],
+            "border-line": true,
+            "logo-grop-botto": {
+              "golu-group-logo": "/Image/GroupPage/Center_Post/Golu_Profile_CommentBox.jpg",
+              "comment-box-bottom": {
+                "placeholder": "Write an answe...",
+                "icons": [
+                  "fa-solid fa-face-smile",
+                  "fa-solid fa-camera",
+                  "fa fa-theater-masks",
+                  "fa fa-user-secret half-icon"
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "group-post-1": {
+          "right-content": {
+            "right-content-1": "/Image/GroupPage/LeftSidebar/Suvichar_img.jpg",
+            "group-post-logo": "/Image/HomePage/Post/Uttam_Profile_img.jpg"
+          },
+          "post-group-logo-end": {
+            "grou-text-style": "सुविचार",
+            "grou-text-style1-name": "Uttam Patel",
+            "grou-text-style3": {
+              "icon": "/Image/GroupPage/Center_Post/Header-medal_img.png",
+              "text": "Top contributor"
+            },
+            "grou-text-style1-time": "19h",
+            "grou-text-style4": "fa-solid fa-earth-americas"
+          },
+          "group-menu": "/Image/GroupPage/Center_Post/menu-3.svg",
+          "detail-post": "Jai Maa",
+          "postType": "IMAGE",
+          "isHidePost": false,
+          "isLikedByMe": false,
+          "likedCount": 0,
+          "picId": 2,
+          "post-image-group": "/Image/GroupPage/Center_Post/Suvichar_post.jpg",
+          "like-comment-logo-box": {
+            "count-number-like-comment-share": {
+              "like-cout-4": {
+                "group-blue-like": "/Image/GroupPage/Center_Post/Like_emoji.svg",
+                "count": 27
+              },
+              "comment-count-5": {
+                "count": 13,
+                "text": "comments"
+              },
+              "share-count-6": {
+                "count": 41,
+                "text": "shares"
+              }
+            },
+            "group-bottom-content": [
+              "fa-regular fa-thumbs-up",
+              "/Image/GroupPage/Center_Post/Comment_img.jpg",
+              "/Image/GroupPage/Center_Post/Share-img.jpg"
+            ],
+            "border-line": true,
+            "logo-grop-botto": {
+              "golu-group-logo": "/Image/GroupPage/Center_Post/Golu_Profile_CommentBox.jpg",
+              "comment-box-bottom": {
+                "placeholder": "Write an answer...",
+                "icons": [
+                  "fa-solid fa-face-smile",
+                  "fa-solid fa-camera",
+                  "fa fa-theater-masks",
+                  "fa fa-user-secret half-icon"
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "group-post-1": {
+          "postType": "VIDEO",
+          "postLogo": {
+            "imgSrc": "/Image/Video/Center-Video/Somnath_Profile_img.jpg",
+            "alt": "Kaimur-news-logo",
+            "link": ""
+          },
+          "postInfo": {
+            "name": "SomNath Mukharjee",
+            "followLink": "",
+            "timeDate": "29 June",
+            "globalIconLink": "",
+            "menuIcon": "fa-solid fa-ellipsis"
+          },
+          "headline": {
+            "isHidePost": false,
+            "isLikedByMe": false,
+            "likedCount": 0,
+            "picId": 3,
+            "text": "Tu Saath Hai Toh (Full Audio): Mithoon, Vishal Mishra, Vishal Pandey, Sana Makbul, Sayeed Quadri.",
+            "videoSrc": "/Image/Video/Center-Video/video-page-pos-video.2.mp4",
+            "videoClass": "post-picture-video"
+          },
+          "actions": {
+            "like": {
+              "icon": "fa-regular fa-thumbs-up",
+              "text": "Like",
+              "iconSrc": "/Image/HomePage/Post/like-emoji_img.svg",
+              "count": "Rahul Rock, Laltu Yadav and 337K others"
+            },
+            "comment": {
+              "iconSrc": "/Image/HomePage/Post/comment_img.jpg",
+              "text": "439 comments"
+            },
+            "share": {
+              "iconSrc": "/Image/HomePage/Post/share-logo_img.jpg",
+              "text": "Share"
+            },
+            "views": "11M"
+          }
+        }
+      },
+      {
+        "group-post-1": {
+          "right-content": {
+            "right-content-1": "/Image/GroupPage/LeftSidebar/Taja_Khabar_img.jpg",
+            "group-post-logo": "/Image/HomePage/Post/Jayant_Profile_img.jpg"
+          },
+          "post-group-logo-end": {
+            "grou-text-style": "ताज़ा ख़बर 2025",
+            "grou-text-style1-name": "Jayant Limbachiya",
+            "grou-text-style3": {
+              "icon": "./assets/image/group-medal.png",
+              "text": "Top contributor"
+            },
+            "grou-text-style1-time": "19h",
+            "grou-text-style4": "fa-solid fa-earth-americas"
+          },
+          "group-menu": "/Image/GroupPage/Center_Post/menu-3.svg",
+          "detail-post": "",
+          "postType": "IMAGE",
+          "isHidePost": false,
+          "isLikedByMe": false,
+          "likedCount": 0,
+          "picId": 4,
+          "post-image-group": "/Image/GroupPage/Center_Post/Taja_Khabar_post_1.jpg",
+          "like-comment-logo-box": {
+            "count-number-like-comment-share": {
+              "like-cout-4": {
+                "group-blue-like": "/Image/GroupPage/Center_Post/Like_emoji.svg",
+                "count": 262
+              },
+              "comment-count-5": {
+                "count": 93,
+                "text": "comments"
+              },
+              "share-count-6": {
+                "count": 32,
+                "text": "shares"
+              }
+            },
+            "group-bottom-content": [
+              "fa-regular fa-thumbs-up",
+              "/Image/GroupPage/Center_Post/Comment_img.jpg",
+              "/Image/GroupPage/Center_Post/Share-img.jpg"
+            ],
+            "border-line": true,
+            "logo-grop-botto": {
+              "golu-group-logo": "/Image/GroupPage//Center_Post/Golu_Profile_CommentBox.jpg",
+              "comment-box-bottom": {
+                "placeholder": "Write an answer...",
+                "icons": [
+                  "fa-solid fa-face-smile",
+                  "fa-solid fa-camera",
+                  "fa fa-theater-masks",
+                  "fa fa-user-secret half-icon"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

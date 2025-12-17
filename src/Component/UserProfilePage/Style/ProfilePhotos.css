@@ -1,0 +1,35 @@
+.photos{
+    margin-top: 15px;
+    padding: 15px;
+    /* width: 100%; */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.photos_text{
+  font-family: 'Gill Sans', "Segoe UI", 'Trebuchet MS', sans-serif;
+}
+
+.total_photos{
+ display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border-radius: 10px;
+}
+
+.seeMoreLessInProfile{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 8px;
+  column-gap: 10px;
+  color: blue;
+  border-radius: 8px;
+}
+
+.seeMoreLessInProfile:hover{
+   cursor: pointer;
+   background-color: #f3f0f0;
+  }
+

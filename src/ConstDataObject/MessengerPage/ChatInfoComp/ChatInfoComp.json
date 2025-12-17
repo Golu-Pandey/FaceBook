@@ -1,0 +1,75 @@
+{
+  "messengerPageRight": {
+    "rightLogo": "./assets/image/messenger-page-center-logo.jpg",
+    "leftTopName": "Rishu Raj Pandey",
+    "endTo": {
+      "text": "End-to-end encrypted",
+      "icon": "fa-solid fa-lock"
+    },
+    "iconRight3": [
+      {
+        "type": "profile",
+        "img": "./assets/image/left-profile-logo1.png",
+        "class": "left-profile1",
+        "label": "Profile",
+        "linkClass": "pro-1-file"
+      },
+      {
+        "type": "bell",
+        "icon": "fa-solid fa-bell",
+        "label": "Mute",
+        "linkClass": "right-bell-1"
+      },
+      {
+        "type": "search",
+        "icon": "fa-solid fa-magnifying-glass",
+        "label": "Search",
+        "linkClass": "right-search-logo-1"
+      }
+    ],
+    "rightPageTotalContentIcon": [
+      {
+        "type": "details",
+        "summary": "Chat Info",
+        "content": [
+          {
+            "class": "Privacy-icon-total",
+            "icon": "fa-solid fa-thumbtack",
+            "text": "View pinned messages",
+            "style": "transform: rotate(45deg);"
+          }
+        ]
+      },
+      {
+        "type": "details",
+        "summary": "Customise chat",
+        "content": [
+          { "class": "theme-icon", "icon": "fa-solid fa-circle", "text": "Change theme" },
+          { "class": "like-change", "icon": "fa-solid fa-thumbs-up", "text": "Change emoji" }
+        ]
+      },
+      {
+        "type": "details",
+        "summary": "Media and files",
+        "content": [
+          { "class": "Media-icon", "icon": "fa-solid fa-image", "text": "Media" },
+          { "icon": "fa-solid fa-file-lines", "text": "Files" }
+        ]
+      },
+      {
+        "type": "details",
+        "summary": "Privacy and support",
+        "content": [
+          { "class": "Privacy-icon-total", "icon": "fa-solid fa-bell-slash", "text": "Mute notifications" },
+          { "class": "Privacy-icon-total", "icon": "fa-solid fa-shield-halved", "text": "Message permissions" },
+          { "class": "Privacy-icon-total", "icon": "fa-regular fa-clock", "text": "Disappearing Message" },
+          { "class": "Privacy-icon-total", "icon": "fa-solid fa-eye", "text": "Read receipts", "subText": "On" },
+          { "class": "Privacy-icon-total", "icon": "fa-solid fa-lock", "text": "Verify end-to-end encryption" },
+          { "class": "Privacy-icon-total", "icon": "fa-solid fa-circle-minus", "text": "Restrict" },
+          { "class": "Privacy-icon-total", "icon": "fa-solid fa-ban", "text": "Block" },
+          { "class": "Privacy-icon-total", "icon": "fa-solid fa-flag report-flag", "text": "Report" }
+        ]
+      }
+    ]
+  }
+}
