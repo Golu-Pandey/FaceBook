@@ -2,8 +2,9 @@
     position: fixed;
     top: 55px;
     right: 0;
-    width: 23%;
+    max-width: 23%;
     padding-right: 10px;
+    margin-right: 10px;
     height: calc(100vh - 100px);
     overflow-y: auto;
     overflow-x: hidden;
@@ -51,8 +52,8 @@
 }
 
 .sponsored-img-right {
-    width: 180px;
-    height: 180px;
+    width: 148px;
+    height: 158px;
     border-radius: 8px;
     object-fit: cover;
 }

@@ -146,7 +146,7 @@
 }
 
 .post-image-group img {
-    width: 752px;
+    width: 755px;
     height: 450px;
     object-fit: cover;
 }
@@ -212,7 +212,7 @@
     flex-direction: column;
     gap: 0;
     /* width: 755px; */
-    max-width: 83.7%;
+    max-width: 92%;
 }
 
 .group-bottom-content {

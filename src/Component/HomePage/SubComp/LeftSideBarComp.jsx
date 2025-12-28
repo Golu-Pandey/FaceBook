@@ -40,7 +40,7 @@ export default function LeftSideBarComp({ navigateToProfile, loggedUserId,
       )
       }
       {seeMore ?
-        <a href="" className="sidebar_item_1" onClick={isHideShow}>
+        <a  className="sidebar_item_1" onClick={isHideShow}>
           <i className="fa-solid fa-angles-down"></i>
           <span className="sidebar_item_1">see more</span>
         </a>
@@ -54,7 +54,7 @@ export default function LeftSideBarComp({ navigateToProfile, loggedUserId,
             />
           )
           }
-          <a href="" className="sidebar_item_1" onClick={isHideShow}>
+          <a  className="sidebar_item_1" onClick={isHideShow}>
             <i className="fa-solid fa-angles-up"></i>
             <span className="sidebar_item_1">see less</span>
           </a>

@@ -52,6 +52,7 @@
     grid-template-columns: repeat(5, 1fr);
     gap: 4px;
     z-index: 10;
+    max-height: 500px;
     background-color: white;
 }
 

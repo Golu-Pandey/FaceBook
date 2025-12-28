@@ -1,5 +1,5 @@
 .total-post {
-    max-width: 83.7%;
+    max-width: 92%;
     border-radius: 8px;
     /* box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1); */
     margin-bottom: 15px;
@@ -15,7 +15,9 @@
 /* .right-video-post {
     padding-top: 10px;
 } */
-
+.post-picture{
+    text-align: center;
+}
 .right-video-post-content {
     display: flex;
     align-items: center;
@@ -128,7 +130,7 @@
     /* box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1); */
 }
 .post-picture-video {
-    width: 740px;
+    width: 676.4px;
     height: 400px;
 }
 

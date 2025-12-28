@@ -1,8 +1,8 @@
 /*  Messenger-Page-Center- START*/
 .messenger-page-center {
     position: fixed;
-    width: 48%;
-    margin-left: 26.4%;
+    width: 45.4%;
+    margin-left: 28.4%;
     margin-top: 14px;
     box-shadow: 0 0px 56px rgba(0, 0, 0, 0.1);
 
@@ -150,7 +150,7 @@
 .all-content-chat-page {
     display: flex;
     flex-direction: column-reverse;
-    min-height: 455px;
+    min-height: 410px;
     overflow-y: auto;
     /* border: 1px solid red; */
     scroll-behavior: smooth;
@@ -228,7 +228,7 @@
     margin: 5px 8px;
     position: fixed;
     bottom: 24px;
-    width: 47%;
+    width: 45%;
     background-color: white;
 
 }
