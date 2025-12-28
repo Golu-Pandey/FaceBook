@@ -17,6 +17,9 @@ const App = () => {
     { path: "/messenger", element: <MessengerPage /> },
     { path: "/video", element: <VideoPage /> },
     { path: "/user-profile", element: <UserProfilePage /> },
+  {
+    basename: "/FaceBook",
+  }
   ]);
 
   return <RouterProvider router={router} />;
